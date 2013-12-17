@@ -1,0 +1,2623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Voyage\n"
+"POT-Creation-Date: 2013-03-04 16:08+0200\n"
+"PO-Revision-Date: 2013-03-04 16:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeFuse <support@themefuse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\voyage\\wp-content\\themes\\voyage-"
+"parent\n"
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/404.php:16
+msgid "Page not found"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/404.php:20
+msgid "The page you were looking for doesn&rsquo;t seem to exist"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/archive.php:28
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/search.php:34
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/before-content.php:15
+msgid "WHERE DO YOU WANT TO TRAVEL?"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/before-content.php:16
+msgid "See all"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/before-content.php:16
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:176
+msgid "offers"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments-template.php:22
+msgid "Pingback:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments-template.php:22
+msgid "Edit"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments-template.php:55
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:16
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:31
+msgid "Join the conversation"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:34
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:35
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:62
+msgid "No comments yet."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:71
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:26
+msgid "Leave a Reply"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:78
+msgid "You must be"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:78
+msgid "logged in"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:78
+msgid "to post a comment."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:86
+msgid "Logged in as"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:86
+msgid "Log out of this account"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:86
+msgid "Logout"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:91
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:33
+msgid "Name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:98
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:40
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:33
+msgid "Email"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:98
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:40
+msgid "never published"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:105
+msgid "You can use these tags"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:108
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:47
+msgid "Website"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:113
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:52
+msgid "Comment"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/comments.php:119
+msgid "POSTS COMMENT"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-author.php:46
+msgid "CONTACT THE AUTHOR:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:65
+msgid "Your message has been sent!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:66
+msgid "Thank you for contacting us,"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:66
+msgid "We will get back to you within 2 business days."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:70
+msgid "Oops!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-contact-form.php:71
+msgid ""
+"Due to an unknown error, your form was not submitted, please resubmit it or "
+"try later."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-single.php:19
+msgid "Posted by "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-single.php:31
+msgid "Share"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/content-single.php:31
+msgid "via"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/header.php:65
+msgid "SIGN IN"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/header.php:65
+msgid "REGISTER"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:62
+msgid "Latest added"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:72
+msgid "Property Type"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:73
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:188
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:189
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:367
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:368
+msgid "Asking Price"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:90
+msgid "Rooms"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:91
+msgid "City"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:91
+msgid "Town"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/latest-added.php:92
+msgid "view property"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/listing-blog.php:15
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/blog_entries.php:56
+msgid "Posted by"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/listing-blog.php:19
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/blog_entries.php:61
+msgid "Continue reading"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:46
+msgid "View Large"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:84
+msgid "Play"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:85
+msgid "Pause"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:86
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:87
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:88
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/photo-gallery.php:89
+msgid "&lsaquo; Prev"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/similar-holidays.php:67
+msgid "OTHER SIMILAR "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/similar-holidays.php:67
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:185
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:129
+msgid ":"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/similar-holidays.php:89
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/single.php:24
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:186
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:130
+msgid ", "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:122
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:80
+msgid "IN"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:123
+msgid " available offers"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:123
+msgid " available offer"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:131
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:213
+msgid "Sort by"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:135
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:218
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:24
+msgid "Latest Added"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:136
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:224
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:28
+msgid "Price High - Low"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:137
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:230
+msgid "Price Low - Hight"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:138
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:236
+msgid "Names A-Z"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:139
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:242
+msgid "Names Z-A"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:144
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:249
+msgid "Jump to page"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:153
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:259
+msgid "Page"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:157
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:265
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:120
+msgid "of"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:158
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:271
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:124
+msgid "Previous"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:159
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:275
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:129
+msgid "Next"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:173
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:118
+msgid "SALE:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:173
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:118
+msgid "% OFF"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:174
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:119
+msgid "View More Details"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:187
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:131
+msgid " ("
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:187
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:131
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:39
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:39
+msgid " nights"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:187
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:131
+msgid ")"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:195
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:139
+msgid "Price:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:203
+msgid "Page not found."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/taxonomy.php:204
+msgid "The page you were looking for doesn&rsquo;t seem to exist."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:32
+msgid "Price Low - High"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:36
+msgid "Names A - Z"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:40
+msgid "Names Z - A"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:80
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:75
+msgid "All Locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:81
+msgid "no"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:81
+msgid "available offers"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:148
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/template-search.php:149
+msgid "Sorry, no favorites added yet"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:274
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:295
+msgid "Select a category:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:318
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:339
+msgid "Select a page:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:382
+msgid "Select a tag:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:449
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:456
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:466
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:321
+msgid "Remove"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:463
+msgid "Type here to search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:472
+msgid "Tip: Save options to get rid of invalid ids"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:657
+msgid "Upload"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:905
+#, php-format
+msgid "Selected %%number%%  item"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:905
+#, php-format
+msgid "Selected %%number%% items"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:958
+msgid "show"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/OPTIGEN.php:958
+msgid "hide"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/core/UPDATER.php:161
+msgid "Proceed"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/export/TF_EXPORT.php:4
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/TF_IMPORT.php:4
+msgid "Direct access forbidden."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/export/views/after_download.php:7
+msgid "Failed to export XML file"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:62
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:71
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:134
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:143
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:220
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:224
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:233
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:63
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:460
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:933
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/views/install_error.php:7
+msgid "Failed to import XML file"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:42
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:67
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:72
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:262
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:225
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:241
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:266
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:292
+msgid "Assign Authors"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:293
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:295
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:305
+msgid "Import Attachments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:308
+msgid "Download and import file attachments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:325
+msgid "Import author:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:336
+msgid "or create new user with login name:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:339
+msgid "as a new user:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:347
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:349
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:350
+msgid "- Select -"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:400
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:449
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:487
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:531
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:657
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:553
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:574
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:629
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:779
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:786
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:852
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:865
+msgid "Invalid file type"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:909
+msgid "Remote server did not respond"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:915
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:927
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:228
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:232
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:255
+msgid "Edit Menu Item"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:264
+msgid "URL"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:271
+msgid "Navigation Label"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:277
+msgid "Title Attribute"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:284
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:289
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:295
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:301
+msgid "Description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:305
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:316
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:321
+msgid "Cancel"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:147
+msgid "Add New "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:148
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:28
+msgid "Nothing found"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:149
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:57
+msgid "All "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:926
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:962
+msgid "Zone"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:935
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:971
+msgid "Priority"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK.php:981
+msgid "Features Display Priority"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:38
+#, php-format
+msgid "Error importing seek index table: Cannot find \"%s\" file in \"%s\""
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:53
+#, php-format
+msgid ""
+"Skipping seek index table import: Table \"%s\" already exists and is not "
+"empty"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:73
+#, php-format
+msgid ""
+"Error importing Seek index table: No sql read from file \"%s\" in \"%s\""
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/views/drag_options_to_zones.php:21
+msgid "No Zone"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seek/views/drag_options_to_zones.php:157
+msgid ""
+"Drag features in this box if you don't want them to appear on the website"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:403
+msgid "Archive"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:435
+msgid "Author Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:443
+msgid "Date Archive"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:475
+msgid "Search Results for "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:475
+#, php-format
+msgid "'%s'"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:489
+msgid "Page Not Found - 404 error"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:563
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:612
+#, php-format
+msgid "Title for %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:564
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:613
+#, php-format
+msgid ""
+"Enter custom title for %s. These settings may be overridden for individual "
+"%s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:571
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:620
+#, php-format
+msgid "Description for %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:572
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:621
+#, php-format
+msgid ""
+"Enter custom description for %s. These settings may be overridden for "
+"individual %s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:581
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:629
+#, php-format
+msgid "Keywords for %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:582
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:630
+#, php-format
+msgid ""
+"Enter custom meta keywords for %s. These settings may be overridden for "
+"individual %s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:638
+#, php-format
+msgid "Use noindex for %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:639
+#, php-format
+msgid "Enable or disable using of noindex for %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:654
+msgid "XML Sitemaps"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:657
+msgid "Enable XML Sitemaps"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:658
+msgid ""
+"Enable or disable XML Sitemaps. Sitemap will be generated when a new content "
+"will be added."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:673
+msgid ""
+"Please check the appropriate box below if there's a post type that you do "
+"<b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:685
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:712
+#, php-format
+msgid "Exclude %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:700
+msgid ""
+"Please check the appropriate box below if there's a taxonomy that you do "
+"<b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:730
+msgid "Use META keywords"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:731
+msgid "Use META keywords."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:738
+msgid "Use Canonical URLs"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:739
+msgid "Use Canonical URLs."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:746
+msgid "Title separator"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:747
+msgid ""
+"Title separator. Will be used by default to generate titles if some titles "
+"are not set"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:755
+msgid "General META"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:758
+msgid "General Description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:759
+msgid ""
+"Enter general description for all the pages (categories, arhives,  posts, "
+"etc)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:767
+msgid "General Keywords"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:768
+msgid ""
+"Enter general keywords for all the pages (categories, arhives,  posts, etc)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:778
+msgid "Title for Homepage"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:779
+msgid "Enter custom title for Homepage."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:785
+msgid "Description for Homepage"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:786
+msgid "Enter custom description for Homepage."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:794
+msgid "Keywords for Homepage"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:795
+msgid "Enter custom keywords for Homepage."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:805
+msgid "Title for Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:806
+msgid ""
+"Enter custom title for Archives. This title may be overridden by other "
+"specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:812
+msgid "Description for Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:813
+msgid ""
+"Enter custom description for Archives. This description may be overridden by "
+"other specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:820
+msgid "Keywords for Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:821
+msgid ""
+"Enter custom keywords for Archives. This keywords may be overridden by other "
+"specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:829
+msgid "Use noindex for Archive"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:830
+msgid "Enable or disable using of noindex for Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:838
+msgid "Title for Author"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:839
+msgid "Enter custom title for Author Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:845
+msgid "Description for Author"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:846
+msgid "Enter custom description for Author Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:853
+msgid "Keywords for Author"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:854
+msgid "Enter custom keywords for Author Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:862
+msgid "Use noindex for Author"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:863
+msgid "Enable or disable using of noindex for Author Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:871
+msgid "Title for Date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:872
+msgid "Enter custom title for Date Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:878
+msgid "Description for Date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:879
+msgid "Enter custom description for Date Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:886
+msgid "Keywords for Date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:887
+msgid "Enter custom keywords for Date Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:895
+msgid "Use noindex for Date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:896
+msgid "Enable or disable using of noindex for Date Archives."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:904
+msgid "Title for Attachment"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:905
+msgid "Enter custom title for Attachment."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:911
+msgid "Description for Attachment"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:912
+msgid "Enter custom description for Attachment."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:920
+msgid "Keywords for Attachment"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:921
+msgid "Enter custom keywords for Attachment."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:931
+msgid "Title for Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:932
+msgid "Enter custom title for Search."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:938
+msgid "Description for Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:939
+msgid "Enter custom description for Search."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:946
+msgid "Keywords for Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:947
+msgid "Enter custom keywords for Search."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:955
+msgid "Use noindex for Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:956
+msgid "Enable or disable using of noindex for Search."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:964
+msgid "Title for 404"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:965
+msgid "Enter custom title for 404."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:971
+msgid "Description for 404"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:972
+msgid "Enter custom description for 404."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:980
+msgid "Keywords for 404"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:981
+msgid "Enter custom keywords for 404."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:991
+msgid "Title for Paged"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:992
+msgid "Enter custom title suffix for Paged."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1011
+msgid "Help"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1018
+msgid ""
+"These tags can be included and will be replaced when a page is displayed."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1022
+msgid "Replaced with the date of the post/page"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1026
+msgid "Replaced with the title of the post/page"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1030
+msgid "The site's name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1034
+msgid "The site's tagline / description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1038
+msgid ""
+"Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1042
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1046
+msgid "Replaced with the current tag/tags"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1050
+msgid "Replaced with the post categories (comma separated)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1054
+msgid "Replaced with the category description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1058
+msgid "Replaced with the tag description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1062
+msgid "Replaced with the term description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1066
+msgid "Replaced with the term name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1070
+msgid "Replaced with the post/page modified time"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1074
+msgid "Replaced with the post/page ID"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1078
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1082
+msgid "Replaced with the post/page author's userid"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1086
+msgid "Replaced with the current search phrase"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1090
+msgid "Replaced with the current time"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1094
+msgid "Replaced with the current date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1098
+msgid "Replaced with the current month"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1102
+msgid "Replaced with the current year"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1106
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1110
+msgid "Replaced with the current page total"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1114
+msgid "Replaced with the current page number"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1118
+msgid "Attachment caption"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1151
+msgid "SEO"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1157
+msgid "Page Title"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1158
+msgid "Enter your prefered custom title or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1164
+msgid "Page Description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1165
+msgid ""
+"Enter your prefered custom description or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1172
+msgid "Page Keywords"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/seo/TF_SEO.php:1173
+msgid "Enter your prefered custom keywords or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/extensions/slider/TF_SLIDER.php:410
+msgid "Select Slider:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/GENERAL.php:27
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/post_attachmets/POST_ATTACHMENTS.php:41
+msgid "Exclude from slider"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/GENERAL.php:29
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/GENERAL.php:35
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/post_attachmets/POST_ATTACHMENTS.php:43
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/post_attachmets/POST_ATTACHMENTS.php:49
+msgid "Yes"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/GENERAL.php:33
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/post_attachmets/POST_ATTACHMENTS.php:47
+msgid "Set as main"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/INTERFACE.php:41
+msgid "ThemeFuse Download Group"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/INTERFACE.php:63
+msgid "ThemeFuse Gallery Group"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:23
+#, php-format
+msgid "Updating %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:24
+msgid "The package is at the latest version."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:25
+#, php-format
+msgid "Removing the old version of the %s&#8230;"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:26
+msgid "Could not remove the old version of the "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:27
+msgid "Update failed."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:28
+msgid "Package updated successfully."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:29
+msgid "Backing up files&#8230;"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:30
+msgid "Could not create backup directory."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/helpers/UPGRADER.php:35
+msgid "Return to Framework page"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/framework_header.php:25
+msgid "Framework"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/framework_header.php:29
+msgid "ThemeMods"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/framework_header.php:33
+msgid "Templates"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/page_framework_options.php:19
+msgid "Save All Changes"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/page_framework_options.php:32
+msgid "Reset All Options"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/page_framework_options.php:32
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/update_page.php:3
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:3
+msgid "ThemeFuse Updates"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:6
+#, php-format
+msgid "Last checked on %1$s at %2$s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:7
+msgid "Check Again"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:13
+#, php-format
+msgid "You have the latest version of %s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:17
+#, php-format
+msgid ""
+"You have the latest version of %s. You do not need to update. However, if "
+"you want to re-install current version, you can do so automatically."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:21
+#, php-format
+msgid ""
+"Upgrading %1$s will overwrite the current installed version of this theme. "
+"We recommend backing up your theme files before reinstalling the %1$s."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:25
+msgid "Re-install Now"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:30
+msgid ""
+"<strong>Important:</strong> before updating, please <a href=\"http://codex."
+"wordpress.org/WordPress_Backups\" target=\"_blank\">back up your database "
+"and files</a>. For help with updates, visit the <a href=\"http://codex."
+"wordpress.org/Updating_WordPress\" target=\"_blank\">Updating WordPress</a> "
+"Codex page."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:34
+#, php-format
+msgid "An updated version of %s is available."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:38
+msgid "Update Now"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:80
+#, php-format
+msgid ""
+"<strong>Please Note:</strong> Any customizations you have made to theme "
+"files will be lost. Please consider using <a href=\"%s\">child themes</a> "
+"for modifications."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/framework/views/updater/upgrade_preamble.php:86
+msgid ""
+"While your site is being updated, it will be in maintenance mode. As soon as "
+"your updates are complete, your site will return to normal."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:21
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:50
+msgid "Add New"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:22
+msgid "Add New Testimonial"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:23
+msgid "Edit Testimonial"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:24
+msgid "New Testimonial"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:25
+msgid "All Testimonials"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:26
+msgid "View Testimonial"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:27
+msgid "Search Testimonials"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:29
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:51
+msgid "Add New Reservation"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:52
+msgid "Edit Reservation info"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:53
+msgid "New Reservation"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:54
+msgid "All Reservations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:55
+msgid "View Reservation info"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php:80
+msgid "Add New Reservation Form"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/common_includes/MENU.php:13
+msgid "Default Navigation"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:120
+msgid "Page:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:140
+msgid "Jump to page:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:168
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:58
+msgid "Sort by:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_functions.php:282
+msgid " /day"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:33
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:12
+msgid "Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:34
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:195
+msgid "Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:35
+msgid "Search Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:36
+msgid "All Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:37
+msgid "Parent Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:38
+msgid "Parent Category:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:39
+msgid "Edit Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:40
+msgid "Update Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:41
+msgid "Add New Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:42
+msgid "New Category Name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:43
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:44
+msgid "Separate categories with commas"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:56
+msgid "Search "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:58
+msgid "Edit "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:59
+msgid "Update "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:60
+msgid "Add New Tag"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:61
+msgid "New "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:62
+msgid " Tags"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:72
+msgid "Locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:73
+msgid "Location"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:74
+msgid "Search Locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:76
+msgid "Parent Location"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:77
+msgid "Parent Location:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:78
+msgid "Edit Location"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:79
+msgid "Update Location"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:80
+msgid "Add New Location"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:81
+msgid "New Location Name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:82
+msgid "Choose from the most used locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php:83
+msgid "Separate location with commas"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:183
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:190
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:191
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:369
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:370
+msgid "Price"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:193
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:372
+#, php-format
+msgid ""
+"Enter the %s price without the currency symbol. You can <a href=\"admin.php?"
+"page=themefuse\">change the global currency options</a> in the Fuse "
+"Framework."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:216
+#, php-format
+msgid "%s details"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:240
+#, php-format
+msgid "%s type"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:242
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:243
+msgid "Sale type"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:247
+#, php-format
+msgid "Choose the type for this %s"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:277
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:167
+msgid "Without Dining"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:278
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:168
+msgid "Breakfast"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:279
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:169
+msgid "Half Board"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/holiday_options.php:280
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:170
+msgid "All Inclusive"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:48
+msgid "DESTINATION"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:49
+msgid "All locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:66
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:268
+msgid "Check-in date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:81
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:282
+msgid "Check-out date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:96
+msgid "All LOCATIONS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:115
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:117
+msgid "All Sub Locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:116
+msgid "No Sub Locations"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:137
+msgid "PRICE RANGE"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:165
+msgid "It includes"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:175
+msgid "offer"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:216
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Tag_Cloud.php:16
+msgid "Tags"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:230
+msgid "Tag"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:231
+msgid "All Tags"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:296
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:341
+msgid "Price range"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:324
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/items_options.php:369
+msgid "Show offers from"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:21
+msgid "Holiday Name, singular"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:22
+msgid ""
+"The name of the holiday being sold. (i.e. property, house, automobile) in "
+"singular form."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:28
+msgid "Holiday Name, plural"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:29
+msgid ""
+"The name of the holiday being sold. (i.e. properties, houses, automobiles) "
+"in plural form."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:36
+msgid "Money Currency, singular"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:37
+msgid ""
+"The name of the currency being used. (i.e. Dollar, Euro, Pound) in singular "
+"form."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:43
+msgid "Money Currency, plural"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:44
+msgid ""
+"The name of the currency being used. (i.e. Dollars, Euros, Pounds) in plural "
+"form."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:50
+msgid "Money Currency, symbol"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:51
+msgid "The symbol of the currency being used. (i.e. $, €, £) in singular form."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:57
+msgid "Suffix after price"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php:58
+msgid "The suffix for price for regular offers.(per day,per moth, /day)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/forms/advanced-form.php:25
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/forms/header-form.php:19
+msgid "FIND VACATIONS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/forms/filter-form.php:43
+msgid "FILTER RESULTS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/forms/short-latest-form.php:16
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/forms/short-promo-form.php:17
+msgid "FIND NOW"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/items/price-range-filter.php:17
+msgid "Mil"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/seek/views/items/price-range-filter.php:24
+msgid "k"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:39
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:39
+msgid " - "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:41
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:41
+msgid "SALE: "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:41
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:41
+msgid "%"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:41
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:41
+msgid " OFF"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php:42
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php:42
+msgid "more..."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_posts.php:45
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/popular_posts.php:45
+msgid "by "
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_posts.php:52
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/popular_posts.php:54
+msgid "Read more"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php:17
+msgid "Login Form"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php:20
+msgid "Username"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php:24
+msgid "Password"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php:28
+msgid "Remember Me"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php:31
+msgid "Forgot Password?"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:22
+msgid "Newsletter"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:33
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:26
+msgid "Thank you for your subscribtion."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:34
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:29
+msgid "Your email format is wrong!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:35
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:32
+msgid "Sad, but we couldn't add you to our mailing list ATM."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:39
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:37
+msgid "Enter your email address"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:41
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:40
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:43
+msgid "Loading"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/search.php:14
+msgid "SEARCH WIDGET"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/search.php:23
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:26
+msgid "Submit"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/tags.php:21
+msgid "See all Travel offers"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/tags.php:40
+msgid "offers available"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/tags.php:40
+msgid "offer available"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php:15
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php:135
+msgid "Toggle Content (click to open)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/extensions/shortcodes/shortcodes/widget.php:29
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/options/admin_options.php:54
+msgid "Date format"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/options/admin_options.php:55
+msgid "Date format in search forms"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:116
+msgid "Invalid taxonomy"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:219
+msgid "From:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:247
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:263
+msgid "From :"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:249
+msgid "To view the message, please use an HTML compatible email viewer!"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:260
+msgid "No Comments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:262
+msgid " Comments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:268
+msgid "Comments are off"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:651
+msgid "<span>PREVIOUS</span>"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:652
+msgid "<span>NEXT</span>"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:653
+msgid "PREVIOUS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:654
+msgid "NEXT"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:985
+msgid "View Photos"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:985
+msgid "Photos"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:1076
+msgid "Homepage"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:1175
+msgid "Search Results"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:1179
+msgid "404"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Facebook.class.php:14
+msgid "TFuse - Facebook"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Facebook.class.php:33
+msgid "Facebook Social Plugins:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Flickr.php:9
+msgid "TFuse - Flickr"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Flickr.php:20
+msgid "Flickr Photos"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Flickr.php:40
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Flickr.php:44
+msgid "Number of photos"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:9
+msgid "TFuse - Holiday Reservation"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:40
+msgid "available departure dates"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:41
+msgid "your selected date"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:46
+msgid "E-mail:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:70
+msgid "Your reservation has been sent."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:71
+msgid "Oops something went wrong."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:72
+msgid "Please try again later"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:125
+msgid "BOOK NOW"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:135
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:66
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:51
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php:83
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:103
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:64
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Nav_Menu_Widget.php:58
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:66
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Calendar.php:39
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:105
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Commented_Posts.php:50
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:83
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Filter_Search.php:42
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:48
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:55
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:111
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Posts.php:50
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:49
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Tag_Cloud.php:54
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:67
+msgid "Title:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:139
+msgid "Subtitle:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:143
+msgid "E-mail"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:147
+msgid "Text 2"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:151
+msgid "Text 3"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:155
+msgid "Textarea"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Holiday_Reservation.php:159
+msgid "*Submit button text"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:9
+msgid "TFuse - Newsletter"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:14
+msgid "NEWSLETTER SIGNUP:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:43
+msgid "SUBMIT"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:70
+msgid "Activate RSS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:9
+msgid "TFuse - Popular Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:14
+msgid "Popular Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:55
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Tabs.php:67
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Commented_Posts.php:54
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Posts.php:54
+msgid "Number of posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php:14
+msgid "TFuse - Promo Offer"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php:19
+msgid "Promo Offer:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php:57
+msgid ","
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php:88
+msgid "Promo"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:33
+msgid "Show Selected Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:34
+msgid "TFuse Selected Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:108
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:68
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:112
+msgid "Show post counts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:110
+msgid "Select Categories List"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:5
+msgid "Show Selected Pages"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:6
+msgid "TFuse Selected Pages"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:70
+msgid "Select Pages List"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Tabs.php:9
+msgid "TFuse - Tabs"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Tabs.php:26
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Posts.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Tabs.php:27
+msgid "Most Commented"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php:9
+msgid "Tfuse - Twitter Stream"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php:21
+msgid "Follow us"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php:47
+msgid "Title (optional):"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php:51
+msgid "Username:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php:55
+msgid "Limit:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Nav_Menu_Widget.php:5
+msgid "Add a custom menus as a widget."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Nav_Menu_Widget.php:6
+msgid "TFuse Custom Menu"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Nav_Menu_Widget.php:51
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Nav_Menu_Widget.php:62
+msgid "Select Menu:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:5
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:6
+msgid "TFuse Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:16
+msgid "Archives"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:30
+msgid "Select Month"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Archives.php:70
+msgid "Display as a drop down"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Calendar.php:5
+msgid "A calendar of your site&#8217;s posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Calendar.php:6
+msgid "TFuse Calendar"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:5
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:6
+msgid "TFuse Categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:40
+msgid "Select Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:109
+msgid "Show as dropdown"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:115
+msgid "Show hierarchy"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:118
+msgid "Show empty categories"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Categories.php:121
+msgid "Show as subcategories menu"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Commented_Posts.php:8
+msgid "TFuse - Discussed Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Commented_Posts.php:13
+msgid "Discussed Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:7
+msgid "Add Contact in Sidebar"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:8
+msgid "TFuse Contact Widgets"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:31
+msgid "Phone"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:32
+msgid "Fax"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:46
+msgid "Call us on"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:50
+msgid "Follow on"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:54
+msgid "Join us on"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:87
+msgid "Adress:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:87
+msgid " (Will not be appear in footer.)"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:91
+msgid "Phone:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:95
+msgid "Fax:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Contact.php:99
+msgid "Email:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Filter_Search.php:8
+msgid "TFuse - Filter Results"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Filter_Search.php:9
+msgid "TFuse Filter Results"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Filter_Search.php:19
+msgid "FILTER THE RESULTS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:5
+msgid "Your blogroll"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:6
+msgid "TFuse Links"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:25
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:63
+msgid "All Links"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:61
+msgid "Select Link Category"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:74
+msgid "Show Link Image"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:76
+msgid "Show Link Name"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:78
+msgid "Show Link Description"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Links.php:80
+msgid "Show Link Rating"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:5
+msgid "Log in/out, admin, feed and WP links"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:6
+msgid "TFuse Meta"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:11
+msgid "Meta"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:26
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:26
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:27
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:27
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Meta.php:28
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:5
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:6
+msgid "TFuse Pages"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:12
+msgid "Pages"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:60
+msgid "Page title"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:61
+msgid "Page order"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:62
+msgid "Page ID"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:66
+msgid "Exclude:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Pages.php:68
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:11
+msgid "The most recent comments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:12
+msgid "TFuse Recent Comments"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:46
+msgid "LATEST DISCUSSIONS:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:73
+msgid "by"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:80
+msgid "More Discussions"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:115
+msgid "Number of comments to show:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Comments.php:120
+msgid "View All Posts Button"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Recent_Posts.php:8
+msgid "TFuse - Recent Posts"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:8
+msgid "A search form for your site"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:9
+msgid "TFuse Search"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:14
+msgid "Search widget:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Search.php:24
+msgid "Search for"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Tag_Cloud.php:5
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Tag_Cloud.php:6
+msgid "TFuse Tag Cloud"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Tag_Cloud.php:56
+msgid "Taxonomy:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:5
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:7
+msgid "TFuse Text"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:70
+msgid "Class:"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:76
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:77
+msgid "No Margin and padding"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:78
+msgid "Disable filters"
+msgstr ""
+
+#: E:\wamp\www\voyage\wp-content\themes\voyage-parent/theme_config/widgets/TF_Widget_Text.php:79
+msgid "Remove text div"
+msgstr ""

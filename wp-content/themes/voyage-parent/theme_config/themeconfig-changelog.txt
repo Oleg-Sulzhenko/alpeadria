@@ -1,0 +1,212 @@
+*** Theme Config Changelog ***
+
+2013.11.21 - version 1.1.9
+ * changes for filter search
+	voyage-parent/theme_config/extensions/seek/options/items_options.php
+ * added new function for resize
+	voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+	voyage-parent/theme_config/extensions/megamenu/views/from_children.php
+ * array for sidebars name
+	voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php
+	voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php
+	voyage-parent/theme_config/extensions/sidebars/configurations/base_cfg.php
+ * minor changes for preview CF and RF
+	voyage-parent/theme_config/extensions/contactform/static/css/contact_form.css
+	voyage-parent/theme_config/extensions/reservationform/static/css/reservation_form.css
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/contactform.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+ * theme is translatable
+	voyage-parent/theme_config/common_includes/CUSTOM_POSTS.php
+	voyage-parent/theme_config/extensions/contactform/configurations/base_cfg.php
+	voyage-parent/theme_config/extensions/contactform/options/contactform_options.php
+	voyage-parent/theme_config/extensions/megamenu/configurations/base_cfg.php
+	voyage-parent/theme_config/extensions/reservationform/configurations/base_cfg.php
+	voyage-parent/theme_config/extensions/reservationform/options/reservationform_options.php
+	voyage-parent/theme_config/extensions/seek/includes/custom_functions.php
+	voyage-parent/theme_config/extensions/seek/includes/custom_taxonomies.php
+	voyage-parent/theme_config/extensions/seek/options/holiday_options.php
+	voyage-parent/theme_config/extensions/seek/options/seek_setup_options.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/blog_entries.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/box.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/button.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/chart.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/columns.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/contactform.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/divider.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/drop_cap.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/faq.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/flickr.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/highlight.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/icons.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/image_frame.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_posts.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/link_more.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/list.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/login.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/map.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/minigallery.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/popular_posts.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/prettyPhoto.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/quotes.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/rows.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/search.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/sidebar.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/slideshow.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/table.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/tabs.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/tags.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/testimonials.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/title.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/twitter.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/twitter_newsline.php
+	voyage-parent/theme_config/extensions/shortcodes/shortcodes/video_player.php
+	voyage-parent/theme_config/extensions/sidebars/configurations/base_cfg.php
+	voyage-parent/theme_config/extensions/sidebars/includes/sidebars_init.php
+	voyage-parent/theme_config/extensions/slider/configurations/base_cfg.php
+	voyage-parent/theme_config/extensions/slider/designs/slidesjs/options/slidesjs_options.php
+	voyage-parent/theme_config/options/admin_options.php
+	voyage-parent/theme_config/options/category_options.php
+	voyage-parent/theme_config/options/holiday_category_options.php
+	voyage-parent/theme_config/options/holiday_locations_options.php
+	voyage-parent/theme_config/options/holiday_options.php
+	voyage-parent/theme_config/options/holiday_tag_options.php
+	voyage-parent/theme_config/options/page_options.php
+	voyage-parent/theme_config/options/post_options.php
+	voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php
+ 
+ 2013.07.25 - version 1.1.7
+ * added functionality for version 3.6 of wordpress
+    voyage-parent/theme_config/extensions/seek/views/items/filter-checkbox-taxonomy-select-parent.php
+    voyage-parent/theme_config/extensions/seek/views/items/select-checkboxes.php
+    voyage-parent/theme_config/extensions/seek/views/items/taxonomy-checkboxes.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/map.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/prettyPhoto.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/testimonials.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php
+    voyage-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php
+
+ 2013.07.10 - version 1.1.6
+ * pretty photo improvements
+    voyage-parent/theme_config/theme_includes/TFUSE_MEDIA.php
+ * search results widget changes
+    voyage-parent/theme_config/widgets/TF_Widget_Filter_Search.php
+
+ 2013.06.17 - version 1.1.5
+ * solved bug with cf captcha
+    voyage-parent/js/contact_forms.js
+ * twitter.api version 1.1
+    voyage-parent/style.css
+    voyage-parent/install/uploads/wordpress-voyage.xml_.txt
+
+ 2013.06.06 - version 1.1.4
+ * filter vacantions from categories
+    voyage-parent/theme_config/extensions/seek/includes/sql_generators.php
+ * changes in megamenu extension
+    voyage-parent/theme_config/common_includes/MENU.php
+    voyage-parent/theme_config/extensions/megamenu/configurations/base_cfg.php
+    voyage-parent/theme_config/extensions/megamenu/index.html
+    voyage-parent/theme_config/extensions/megamenu/views/custom.php
+    voyage-parent/theme_config/extensions/megamenu/views/from_children.php
+    voyage-parent/theme_config/extensions/megamenu/views/index.html
+ * sub-terms in seek extension
+    voyage-parent/theme_config/extensions/seek/views/items/sub-terms.php
+ * taxonomy radio parent
+    voyage-parent/theme_config/extensions/seek/views/items/taxonomy-radio-parent.php
+ * blog page on IE7 and IE8
+    voyage-parent/theme_config/theme_includes/TFUSE_MEDIA.php
+
+ 2013.05.22 - version 1.1.3
+ * seek extension improvements
+    voyage-parent/theme_config/extensions/seek/includes/sql_generators.php
+ * added megamenu extension
+     voyage-parent/theme_config/common_includes/MENU.php
+     voyage-parent/theme_config/extensions/megamenu/configurations/base_cfg.php
+     voyage-parent/theme_config/extensions/megamenu/index.html
+     voyage-parent/theme_config/extensions/megamenu/views/custom.php
+     voyage-parent/theme_config/extensions/megamenu/views/from_children.php
+     voyage-parent/theme_config/extensions/megamenu/views/index.html
+ * sub-terms
+    voyage-parent/theme_config/extensions/seek/views/items/sub-terms.php
+ * radio parent all
+    voyage-parent/theme_config/extensions/seek/views/items/taxonomy-radio-parent.php
+
+ 2013.04.26 - version 1.1.2
+  * tabs short-code preview bug solved
+     voyage-parent/theme_config/extensions/shortcodes/static/js/shortcodes_custom_generators.js
+  * featured images on posts
+    voyage-parent/theme_config/options/admin_options.php
+    voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+  * new "AND" operand on setting tags
+    voyage-parent/theme_config/extensions/seek/includes/sql_generators.php
+    voyage-parent/theme_config/extensions/seek/options/items_options.php
+  * added filter for blog page
+    voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+
+ 2013.04.02 - version 1.1.1
+ * latest offers and latest promos problems on IE
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/latest_offers.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/promo_offers.php
+ * location search filter
+    voyage-parent/theme_config/extensions/seek/options/items_options.php
+    voyage-parent/theme_config/extensions/seek/views/items/filter-checkbox-taxonomy-select-parent.php
+ * contact,reservation form responsive
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/contactform.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+ * reset default selected value
+    voyage-parent/theme_config/extensions/seek/views/items/price-range-filter.php
+ * urldecode for radiobutton on reservation form
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+ * filter tag checkboxes
+    voyage-parent/theme_config/extensions/seek/options/forms_options.php
+    voyage-parent/theme_config/extensions/seek/options/items_options.php
+    voyage-parent/theme_config/extensions/seek/views/forms/filter-form.php
+    voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * save content tabs
+    voyage-parent/theme_config/extensions/seek/includes/custom_functions.php
+    voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+
+ 2013.03.07 - version 1.1
+ * promo offer widget last 200
+    voyage-parent/theme_config/widgets/TFuse_Widget_Promo_Offer.php
+ * new language file
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php
+    voyage-parent/theme_config/options/admin_options.php
+    voyage-parent/theme_config/widgets/TFuse_Widget_Newsletter.php
+ * reservation form translation
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php
+ * text height on slideshow shortcode
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/slideshow.php
+ * fixed maps shortcode in tabs content
+    theme_config/extensions/shortcodes/shortcodes/map.php
+ * qtranslate short-taxonomy-checkboxes
+    voyage-parent/theme_config/extensions/seek/views/items/short-taxonomy-checkboxes.php
+ * shortcode map problem map3 type
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/map.php
+ * properties in rss
+    voyage-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * qtranslate correction
+    voyage-parent/theme_config/extensions/seek/views/items/filter-checkbox-taxonomy-select-parent.php
+    voyage-parent/theme_config/extensions/seek/views/items/taxonomy-checkboxes.php
+ * reservation system from sidebar
+    voyage-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+
+ 2013.02.11 - version 1.0.3
+ * tags and categories in listing
+ * reservation problem solved
+
+ 2013.02.08 - version 1.0.2
+ * follow us link for twitter problem solved
+ * map shortcode problem
+ * reservation system from sidebar problem
+
+ 2013.01.30 - version 1.0.1
+ * admin bar styles
+ * GET, POST, COOKIE changes
+
+ 2013.01.14 - version 1.0
+ * First release!

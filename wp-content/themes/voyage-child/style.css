@@ -1,0 +1,199 @@
+/*
+Theme Name: Voyage Child
+Theme URI: http://themefuse.com/demo/wp/voyage/
+Description: Child theme for the Voyage. Child themes are the recommended way of making modifications to a theme. <a href="http://codex.wordpress.org/Child_Themes">Reade More</a>
+Author: ThemeFuse
+Author URI: http://themefuse.com
+Template: voyage-parent
+*/
+
+@import url("../voyage-parent/style.css");
+
+/*all hidden elements*/
+.hide{
+    display: none !important;
+}
+
+
+.header{
+    background: rgb(20,47,167); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(20,47,167,1) 0%, rgba(27,60,204,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(20,47,167,1)), color-stop(100%,rgba(27,60,204,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(20,47,167,1) 0%,rgba(27,60,204,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(20,47,167,1) 0%,rgba(27,60,204,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(20,47,167,1) 0%,rgba(27,60,204,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(20,47,167,1) 0%,rgba(27,60,204,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#142fa7', endColorstr='#1b3ccc',GradientType=0 ); /* IE6-9 */
+}
+.search_main .btn-find {
+    color: #FFFFFF;
+    text-shadow: 0 1px 1px #091C81;
+    padding: 0 20px 0 16px;
+}
+.header_phone, .toplogin, .topsearch {
+    color: #FFFFFF;
+}
+.re-image img{
+    height: 100%;
+}
+.widget_item_info .price {
+    height: 35px;
+    padding-top: 20px;
+    position: relative;
+    text-align: center;
+    top: 0;
+}
+.header_slider .slides_container{
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.header_slider .pagination_wrap {
+    bottom: 70px;
+}
+.tabs_products > .tabs > li > a {
+    padding: 0 18px !important;
+    width: auto !important;
+}
+img {
+    height: auto;
+}
+.content .entry .item_img {
+    height: 210px;
+}
+.content .entry img {
+    height: 100%;
+}
+#middle .filter_mid .checklist .label_title{
+    display: none;
+}
+#middle .filter_mid .rangeField .label_title {
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+#middle .filter_mid .range-slider {
+    padding: 30px 18px;
+    width: 230px;
+}
+#middle .filter_mid .rangeField{
+    float: right;
+    padding: 0;
+    width: 270px;
+}
+#middle .filter_mid .rowSubmit {
+    clear: right;
+    float: right;
+    margin: 0 90px 0 0;
+}
+#middle .filter_mid .checklist {
+    padding: 0;
+    width: 680px;
+}
+#middle .filter_mid .rowCheckbox {
+    height: 40px;
+    margin-left: 0;
+    width: 20%;
+}
+#middle .custom-checkbox, .custom-radio {
+    padding-right: 12px;
+}
+.after_content .slideshow.slideQuotes .slides_container {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+}
+
+.after_content .slideshow.slideQuotes .slides_container .slide {
+    width: 260px;
+}
+.after_content .slideshow.slideQuotes .slides_container .quote-text {
+    font-size: 16px;
+    line-height: 20px;
+}
+.procent{
+    background: url("img/akcija.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    font-family: helvetica;
+    font-size: 28px;
+    height: 51px;
+    padding-top: 58px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 109px;
+    text-align: center;
+}
+.slideshow.slideQuotes .slides_container .quote-text {
+    color: #B3CE00;
+    font-style: italic;
+    margin-left: -32px;
+    padding-top: 12px;
+}
+.quote-author {
+    margin: 5px 6px 5px 0;
+}
+.grid_list .list_item .caption ins {
+    font-size: 14px;
+}
+.grid_list .list_item .caption .price {
+    display: block;
+    white-space: nowrap;
+}
+.re-bot {
+    min-height: 20px;
+}
+#horvatia-page-re-list .re-item {
+    clear: none;
+    float: left;
+    padding: 20px 0;
+    width: auto;
+}
+#horvatia-page-re-list .re-item .re-image {
+    margin-left: 0;
+    margin-right: 6px;
+}
+#horvatia-page-re-list .re-item:nth-child(4n+4) .re-image {
+    margin-right: 0;
+}
+.page-horvatia-content{
+    margin-bottom: 50px;
+}
+.page-horvatia-content .description{
+    width: 70%;
+    float: left;
+}
+.choose-region-horvatia{
+    border: 8px solid #E5E6E6;
+    width: 25%;
+    float: right
+}
+.choose-region-horvatia .widget-title{
+    border-bottom: 1px solid #DADADA;
+    color: #333333;
+    font-family: 'Lato',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin: 0;
+    padding: 20px;
+    text-shadow: 0 1px 1px #FFFFFF;
+    text-transform: uppercase;
+}
+.choose-region-horvatia ul{
+    padding: 0;
+    margin: 0;
+}
+.choose-region-horvatia ul li{
+    background: -moz-linear-gradient(center top , #FCFCFC 5%, #F3F3F3 100%) repeat scroll 0 0 #FCFCFC;
+    background-color: #fff;
+    display: block;
+    padding: 10px 20px 10px 0;
+    border-bottom: 1px solid #DADADA;
+    border-top: 1px solid #FFFFFF;
+    list-style: none outside none;
+    margin: 0;
+}
+.choose-region-horvatia ul li a{
+    padding: 10px 30px;
+}

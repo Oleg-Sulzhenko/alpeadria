@@ -1,0 +1,162 @@
+/*contact_form*/
+#toplevel_page_tf_contact_forms_list .wp-menu-image a img{
+    display:none;
+}
+#toplevel_page_tf_contact_forms_list .wp-menu-image{
+    background: url("../images/icons/contact-forms.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px !important;
+    margin-top: 8px !important;
+    margin-left: 2px;}
+#toplevel_page_tf_contact_forms_list:hover  div.wp-menu-image,
+#toplevel_page_tf_contact_forms_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/contact-forms.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+/*testimonials*/
+#menu-posts-testimonials  div.wp-menu-image{
+    background: url("../images/icons/testimonials.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px ;
+    margin-top: 6px !important;
+    margin-left: 2px;
+}
+#menu-posts-testimonials:hover  div.wp-menu-image,
+#menu-posts-testimonials.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/testimonials.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+/*Holidays*/
+#menu-posts-holiday div.wp-menu-image{
+    position: relative;
+    top: -3px;
+    background: url("../images/icons/holidays.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px ;
+    margin-top: 6px;
+}
+#menu-posts-holiday:hover  div.wp-menu-image,
+#menu-posts-holiday.wp-has-current-submenu  div.wp-menu-image{
+    position: relative;
+    top: -3px;
+    background: url("../images/icons/holidays.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+}
+
+#toplevel_page_tf_contact_forms_list:hover  div.wp-menu-image,
+#toplevel_page_tf_contact_forms_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/contact-forms.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+/*slider*/
+#toplevel_page_tf_slider_list  div.wp-menu-image a img{
+    display: none;
+}
+#toplevel_page_tf_slider_list  div.wp-menu-image{
+    background: url("../images/icons/sliders.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px;
+    margin-top: 5px !important;
+    margin-left: 2px;
+}
+#toplevel_page_tf_slider_list:hover  div.wp-menu-image,
+#toplevel_page_tf_slider_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/sliders.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+/*reservation form */
+#toplevel_page_tf_reservations_list .wp-menu-image a img{
+    display:none;
+}
+#toplevel_page_tf_reservations_list .wp-menu-image{
+    background: url("../images/icons/reservations_menu_icon.png") no-repeat scroll 5px -16px transparent!important;
+    height: 16px !important;
+    margin-top: 8px !important;
+    margin-left:2px;
+}
+#toplevel_page_tf_reservations_list:hover  div.wp-menu-image,
+#toplevel_page_tf_reservations_list.wp-has-current-submenu  div.wp-menu-image{
+    background: url("../images/icons/reservations_menu_icon.png") no-repeat scroll 5px 0 transparent!important;
+    height: 16px;
+}
+
+/*added*/
+#toplevel_page_tf_contact_forms_list .wp-menu-image  img{
+    display:none;
+}
+#toplevel_page_tf_reservations_list .wp-menu-image  img{
+    display:none;
+}
+#toplevel_page_tf_contact_forms_list div.wp-menu-image  img,#toplevel_page_tf_slider_list  div.wp-menu-image img{
+    display: none;
+}
+.folded #adminmenu a.menu-top {
+    height: 0px;
+}
+.folded #adminmenu a.menu-top {
+    padding: 0px !important;
+}
+#tfusetab-seek_media .tf_rf_exclude_interval{
+    width: 248px !important;
+}
+.seek_property_availability_from .popbox{
+    width: 65px !important;
+}
+.option.option-datepicker.seek_property_availability_to{
+    /*display: none;*/
+}
+.popbox .excludedate_ok {
+    float: right;
+}
+#features-display-priority{
+   /* display: none;*/
+}
+
+#post-body div.inside ul.ui-tabs-nav {
+    /*width: 10000px;*/
+}
+/*============STYLE CSS FOR OPTIGEN TABLE IN POSTS===========*/
+
+.tfuse-optigen-div-table{
+    width: 100%;
+    float: left;
+    display: block;
+}
+.tfuse-optigen-div-table .div-table-tr{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    display: block;
+}
+
+.tfuse-optigen-div-table .div-table-td{
+    float:left;
+    width: 100%;
+    padding-left: 40px;
+}
+.tfuse-optigen-div-table .div-table-delete-checkbox-row{
+    padding: 10px;
+    padding-right: 0;
+    padding-left: 20px;
+    width: 20px;
+    line-height: 25px;
+    float: left;
+}
+.tfuse-optigen-div-table .div-table-delete-checkbox-row + .div-table-td{
+    width:90%;
+    padding-left: 0;
+}
+/*==========END STYLE CSS FOR OPTIGEN TABLE IN POSTS=========*/
+.voyage_content_tabs_table .option-inner{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.voyage_content_tabs_table .formcontainer{
+    float:  none !important;
+}
+.voyage_content_tabs_table .div-table-last-body{
+    padding-top: 15px;
+    padding-left: 25px;
+}
+.voyage_content_tabs_table .tab_content textarea{
+    max-width: none !important;
+    width: 90% !important;
+}
+.voyage_content_tabs_table a.tfbtq_shopping_delete_rows{
+    margin-left: 3px !important;
+}

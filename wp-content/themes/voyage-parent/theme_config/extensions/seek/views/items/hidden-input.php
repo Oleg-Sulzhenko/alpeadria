@@ -1,0 +1,1 @@
+<?php if(isset($vars['no_output']) && $vars['no_output']) return; ?><input type="hidden" name="<?php print $parameter_name; ?>" value="<?php print esc_attr(TF_SEEK_HELPER::get_input_value($parameter_name,'')); ?>">

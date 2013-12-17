@@ -1,0 +1,95 @@
+*** Voyage Changelog ***
+
+2013.11.21 - version 1.1.8
+ * added new function for resize
+	voyage-parent/photo-gallery.php
+ * solved problem with resposive menu
+	voyage-parent/page.php
+	voyage-parent/js/general.js
+	voyage-parent/screen.css
+	voyage-parent/style.css
+ * minor changes for translations
+	voyage-parent/taxonomy.php
+	voyage-parent/template-search.php
+
+ 2013.07.25 - version 1.1.7
+ * rezervation
+    voyage-parent/js/reservation_frontend.js
+ * tabs shortcode
+    voyage-parent/content-tabs.php
+    voyage-parent/js/general.js
+    voyage-parent/screen.css
+    voyage-parent/style.css
+ * ajax pagination 
+    voyage-parent/listing-blog.php
+
+ 2013.07.25 - version 1.1.6
+ * new install
+    voyage-parent/install/uploads/tf_voyage_seek_index_posts.sql
+
+ 2013.06.17 - version 1.1.5
+ * solved bug with cf captcha
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/contactform.php
+ * twitter.api version 1.1
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/twitter.php
+    voyage-parent/theme_config/extensions/shortcodes/shortcodes/twitter_newsline.php
+    voyage-parent/theme_config/options/admin_options.php
+    voyage-parent/theme_config/widgets/TFuse_Widget_Twitter.class.php
+
+ 2013.06.06 - version 1.1.4
+ * categories in template-search.php
+    voyage-parent/template-search.php
+ * search in child-theme
+    voyage-parent/search.php
+
+ 2013.05.22 - version 1.1.3
+ * categories in template-search.php
+    voyage-parent/template-search.php
+ * sub-terms
+    voyage-parent/style.css
+
+ 2013.04.26 - version 1.1.2
+  * display category on taxonomy
+     voyage-parent/taxonomy.php
+  * latest holidays on IE8 bug solved
+     voyage-parent/screen.css
+  * new "AND" operand on setting tags
+    voyage-parent/js/general.js
+  * added filter for blog page
+    voyage-parent/page.php
+  * display image from slider with lightbox
+    voyage-parent/js/general.js
+    voyage-parent/photo-gallery.php
+    voyage-parent/style.css
+
+ 2013.04.02 - version 1.1.1
+ * js problem on firefox
+    voyage-parent/photo-gallery.php
+    voyage-parent/js/advanced.js
+ * location search filter
+    voyage-parent/template-search.php
+ * contact,reservation form responsive
+    voyage-parent/comments.php
+    voyage-parent/screen.css
+
+ 2013.03.07 - version 1.1
+ * new language file
+    voyage-parent/languages/voyage.po
+ * similar holydays correction
+    voyage-parent/similar-holidays.php
+
+ 2013.02.11 - version 1.0.3
+ * tags and categories in listing
+ * reservation problem solved
+
+ 2013.02.08 - version 1.0.2
+ * follow us link for twitter problem solved
+ * map shortcode problem
+ * reservation system from sidebar problem
+
+ 2013.01.30 - version 1.0.1
+ * admin bar styles
+ * GET, POST, COOKIE changes
+  
+ 2013.01.14 - version 1.0
+ * First release!

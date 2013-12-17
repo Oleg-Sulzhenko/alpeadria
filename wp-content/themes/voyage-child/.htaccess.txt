@@ -1,0 +1,12 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^page_id=128 page_id=1488
+
+
+
+</IfModule>
+
+# END WordPress
