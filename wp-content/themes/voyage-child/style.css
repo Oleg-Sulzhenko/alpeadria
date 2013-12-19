@@ -10,7 +10,7 @@ Template: voyage-parent
 @import url("../voyage-parent/style.css");
 
 /*all hidden elements*/
-.hide{
+.hide, .logo, .title_right{
     display: none !important;
 }
 
@@ -196,4 +196,20 @@ img {
 }
 .choose-region-horvatia ul li a{
     padding: 10px 30px;
+}
+.cusel.parameter_name, #cuselFrame-cuSel-0, #cuselFrame-cuSel-3{
+    width: 182px !important;
+}
+
+.pages_jump {
+    margin-left: 22px !important;
+}
+#reservationForm .field_text input{
+    width: 212px !important;
+}
+#reservationForm .field_text {
+    margin-right: 0 !important
+}
+#reservationForm .field_text .tfuse_rf_post_datepicker_in{
+    padding-left: 10px !important;
 }

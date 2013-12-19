@@ -5,9 +5,14 @@ var picker_out = false;
 var _form;
 var _captcha_arr = [];
 jQuery(document).ready(function(){
+    
     repeat = ['Do not repeat','Every week','Every month','Every year'];
     to_replace = [' to ',' Repeat '];
     var $=jQuery;
+        
+    var $value_holiday_link = $('#this_post_php').attr("value");
+    $('input[name="voyage_holidayurl"]').attr('value', $value_holiday_link ).attr('type', 'hidden');
+    
     $('.reservationForm').each(function(){
         if($(this).find('.tfuse_captcha_input').length > 0)
             _captcha_arr.push($(this).find('#this_form_id').val());
