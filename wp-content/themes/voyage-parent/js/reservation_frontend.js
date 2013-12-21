@@ -12,6 +12,9 @@ jQuery(document).ready(function(){
         
     var $value_holiday_link = $('#this_post_php').attr("value");
     $('input[name="voyage_holidayurl"]').attr('value', $value_holiday_link ).attr('type', 'hidden');
+        
+    var $value_holiday_name = $('#this_post_php_name').attr("value");
+    $('input[name="voyage_holidayname"]').attr('value', $value_holiday_name ).attr('type', 'hidden');
     
     $('.reservationForm').each(function(){
         if($(this).find('.tfuse_captcha_input').length > 0)

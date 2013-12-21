@@ -139,6 +139,16 @@ if ($get_order_by == 'price') {
             'orderby' => 'tfseekorderby'
         ));
         ?>
+        <script>
+            $(function() {
+                $(window).stellar();
+            });
+        </script>
+        <style>
+            .horvatia-foto-banner{
+                background: url(<?php the_field('main_img', 112); ?>) no-repeat;
+            }
+        </style>
     </head>
     <body <?php body_class(); ?>>
         <div class="body_wrap">
@@ -181,9 +191,7 @@ if ($get_order_by == 'price') {
             <!--/ header -->
             <?php tfuse_header_content('header'); ?>
 
-            <div class="horvatia-foto-banner">
-                <img src="<?php the_field('main_img', 112); ?>"/>
-            </div>
+            <div class="horvatia-foto-banner" data-stellar-vertical-offset="0" data-stellar-background-ratio="0"></div>
 
             <input type="hidden" id="tax_permalink" value="<?php echo get_term_link($tag->slug, $tag->taxonomy); ?>">
             <input type="hidden" id="tax_results" page="<?php print $page ?>" num_pages="<?php print $num_pages ?>"
@@ -461,11 +469,33 @@ if ($get_order_by == 'price') {
 
                     <div class="clear"></div>
 
+
+
+                    <?php
+                    $taxonomyName = "holiday_locations";
+
+                    $terms = get_terms($taxonomyName, array('parent' => 0));
+
+                    foreach ($terms as $term) {
+                        echo '<a href="' . get_term_link($term->slug, $taxonomyName) . '">' . $term->description . '</a>';
+                        ?>
+
+                        <a class="single-library-cat" href="<?php echo get_term_link($term->slug, $taxonomyName) ?>">
+                            <img src="<?php the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
+                            <?php echo $term->name; ?>
+                        </a>
+
+                    <?php } ?>
+
+
+
                 </div>
                 <!--/ .container_12 -->
 
             </div><!--/ .middle -->
 
             <div class="middle_bot"></div>
+
+
             <?php tfuse_header_content('after_content'); ?>
             <?php get_footer(); ?>

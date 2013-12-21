@@ -1,4 +1,5 @@
 <?php
+
 function tf_reservationform_shortcode($atts) {
     global $TFUSE;
     global $select;
@@ -38,7 +39,8 @@ function tf_reservationform_shortcode($atts) {
         if ($loop->have_posts()) {
             while ($loop->have_posts()) {
                 $loop->the_post();
-                echo '<input id="this_post_php" type="hidden" value="'. get_permalink() .'"></li>';
+                echo '<input id="this_post_php_name" type="hidden" value="' . get_the_title() . '"> 
+                      <input id="this_post_php" type="hidden" value="' . get_permalink() . '">';
             }
         } else {
             // no posts found
