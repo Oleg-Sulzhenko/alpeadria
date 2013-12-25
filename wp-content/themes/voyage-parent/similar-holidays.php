@@ -64,7 +64,7 @@
                 <!-- widget_products -->
                 <div class="widget-container widget_products">
                     <div class="inner">
-                        <h3><?php _e('OTHER SIMILAR ', 'tfuse'); print mb_strtoupper(TF_SEEK_HELPER::get_option('seek_property_name_plural','Holidays'), 'UTF-8'); _e(':', 'tfuse'); ?></h3>
+                        <h3><?php _e('Схожі ', 'tfuse'); print mb_strtoupper(TF_SEEK_HELPER::get_option('seek_property_name_plural','Holidays'), 'UTF-8'); _e(':', 'tfuse'); ?></h3>
 
                             <?php foreach ($holidays as $holiday) : ?>
                             <div class="prod_item">

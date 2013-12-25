@@ -1073,7 +1073,7 @@ if (!function_exists('tfuse_breadcrumbs')) :
             'last_after'    => '</span>',
             'after' => '</div><!--/ breadcrumbs -->',
             'front_page' => true,
-            'show_home' => __( 'Homepage', 'tfuse' ),
+            'show_home' => __( 'Головна', 'tfuse' ),
             'for_disabled'  => '<!-- breadcrumbs --><div class="breadcrumbs"></div><!--/ breadcrumbs -->',
             'echo' => true
         );

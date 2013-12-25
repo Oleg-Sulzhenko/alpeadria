@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Voyage Parent v1.1.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-18 02:30:58+0000\n"
+"PO-Revision-Date: 2013-12-25 16:47:31+0000\n"
 "Last-Translator: admin <example@gmail.om>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -578,7 +578,7 @@ msgstr ""
 #: theme_config/common_includes/CUSTOM_POSTS.php:49
 #@ tfuse
 msgid "Add New"
-msgstr ""
+msgstr "Додати"
 
 #: framework/extensions/contactform/TF_CONTACTFORM.php:64
 #: framework/extensions/reservationform/TF_RESERVATIONFORM.php:75
@@ -4197,7 +4197,7 @@ msgstr ""
 #: theme_config/extensions/shortcodes/shortcodes/blog_entries.php:61
 #@ tfuse
 msgid "Continue reading"
-msgstr ""
+msgstr "Детальніше"
 
 #: photo-gallery.php:46
 #@ tfuse
@@ -4461,7 +4461,7 @@ msgstr ""
 #: theme_config/extensions/shortcodes/shortcodes/testimonials.php:21
 #@ tfuse
 msgid "Testimonials"
-msgstr ""
+msgstr "Відгуки"
 
 #: theme_config/common_includes/CUSTOM_POSTS.php:20
 #@ tfuse
@@ -4486,7 +4486,7 @@ msgstr ""
 #: theme_config/common_includes/CUSTOM_POSTS.php:25
 #@ tfuse
 msgid "All Testimonials"
-msgstr ""
+msgstr "Усі відгуки"
 
 #: theme_config/common_includes/CUSTOM_POSTS.php:26
 #@ tfuse
@@ -6575,7 +6575,7 @@ msgstr ""
 #: theme_config/widgets/TFuse_Widget_Newsletter.php:37
 #@ tfuse
 msgid "Enter your email address"
-msgstr ""
+msgstr "Введіть свій емейл"
 
 #: theme_config/extensions/shortcodes/shortcodes/newsletter.php:41
 #: theme_config/widgets/TFuse_Widget_Newsletter.php:40
@@ -9484,7 +9484,7 @@ msgstr ""
 #: theme_config/widgets/TFuse_Widget_Newsletter.php:43
 #@ tfuse
 msgid "SUBMIT"
-msgstr ""
+msgstr "Підписатись"
 
 #: theme_config/widgets/TFuse_Widget_Newsletter.php:70
 #@ tfuse

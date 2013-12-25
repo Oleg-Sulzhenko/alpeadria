@@ -31,6 +31,28 @@
 
             </div><!--/ .post-item -->
 
+            <?php if (is_front_page()) {  
+            $taxonomyName = "holiday_locations";
+
+            $terms = get_terms($taxonomyName, array('parent' => 0));
+
+            echo '<div id="countries-block">';
+
+                foreach ($terms as $term) {
+                    ?>
+
+                    <a class="single-library-cat" href="<?php echo get_term_link($term->slug, $taxonomyName) ?>">
+                        <img src="<?php // the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
+                        <img src="http://placehold.it/32x32" />
+                        <?php echo $term->name; ?>
+                    </a>
+
+                <?php }   
+
+            echo '</div>';
+
+            } ?>
+            
             <?php tfuse_shortcode_content('bottom'); ?>
 
         </div><!--/ content -->

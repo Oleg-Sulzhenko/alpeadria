@@ -12,7 +12,9 @@ Template: voyage-parent
 /*all hidden elements*/
 .hide, .logo, .title_right, .post-meta-top .author, .link-reset,
 label[for="voyage_holidayurl"],
-input[name="voyage_holidayurl"]
+input[name="voyage_holidayurl"],
+label[for="voyage_holidayname"],
+input[name="voyage_holidayname"]
 {
     display: none !important;
 }
@@ -200,8 +202,14 @@ img {
 .choose-region-horvatia ul li a{
     padding: 10px 30px;
 }
+
+.page-horvatia-content.jaht .description{
+    width: 100%;
+    float: none;
+} 
+
 .cusel.parameter_name, #cuselFrame-cuSel-0, #cuselFrame-cuSel-3{
-    width: 182px !important;
+    width: 178px !important;
 }
 
 .pages_jump {
@@ -217,7 +225,8 @@ img {
 }
 #reservationForm .field_text .tfuse_rf_post_datepicker_in,
 #reservationForm .field_text .tfuse_rf_post_datepicker_out{
-    padding-left: 10px !important;
+    padding-left: 30px !important;
+    width: 212px !important;
 }
 .horvatia-foto-banner {
     height: 474px;
@@ -250,4 +259,35 @@ img {
 }
 .post-meta-top{
     text-indent: -9999px;
+}
+.success_submited_form h2 {
+    color: #3FBF3F;
+    font-size: 18px;
+}
+.cina{
+    text-align: center;
+}
+.cina span{
+    color: #b3ce00;
+    font-size: 16px;
+}
+.cina span span{
+    font-size: 24px;
+}
+.prod_item .price_box {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 120px;
+    display: block;
+    font-family: 'LeagueGothic',Tahoma,Geneva,sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    height: 52px;
+    line-height: 52px;
+    padding: 10px;
+    text-align: center;
+    width: 52px;
+    left: 84px;
+}
+.after_content h3 {
+    text-transform: uppercase;
 }

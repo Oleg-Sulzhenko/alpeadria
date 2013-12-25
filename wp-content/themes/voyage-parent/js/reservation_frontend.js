@@ -10,11 +10,14 @@ jQuery(document).ready(function(){
     to_replace = [' to ',' Repeat '];
     var $=jQuery;
         
+    $('label[for="voyage_datein"]').html('Дата - поч.');
+    $('label[for="voyage_dateout"]').html('Дата - кін.');
+    
     var $value_holiday_link = $('#this_post_php').attr("value");
-    $('input[name="voyage_holidayurl"]').attr('value', $value_holiday_link ).attr('type', 'hidden');
+    $('input[name="voyage_holidayurl"]').attr('value', $value_holiday_link );
         
     var $value_holiday_name = $('#this_post_php_name').attr("value");
-    $('input[name="voyage_holidayname"]').attr('value', $value_holiday_name ).attr('type', 'hidden');
+    $('input[name="voyage_holidayname"]').attr('value', $value_holiday_name );
     
     $('.reservationForm').each(function(){
         if($(this).find('.tfuse_captcha_input').length > 0)

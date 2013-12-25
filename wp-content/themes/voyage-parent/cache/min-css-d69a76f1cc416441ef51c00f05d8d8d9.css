@@ -1,0 +1,24 @@
+.comment-form .row
+label{display:inline}.contact-form
+.tfuse_captcha_input{height:18px;padding:10px;border-radius:0}.tfuse_captcha_reload{background-image:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/reservationform/static/css/../images/reload.png)!important;background-repeat:no-repeat!important;height:18px !important;margin-top:15px !important;max-width:16px !important;vertical-align:top;background-color:transparent;margin-left:10px;border:0px;width:20px}.reservationForm
+.omega{margin-right:0  !important}.reservationForm
+.field_text{margin-right:20px}.reservationForm
+form{padding:15px
+15px !important;background:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/reservationform/static/css/../../../../../images/comment-form_bg.png) 0 0 repeat-x #e9e9e9}.checkbox{background:none}.tf_cf_select{border:1px
+solid #D1D1D1;border-radius:0 0 0 0;height:38px;margin-top:2px;-webkit-box-shadow:0px 1px 0px 0px white;-moz-box-shadow:0px 1px 0px 0px #fff;box-shadow:0px 1px 0px 0px white;font-size:13px;font-family:Arial,Helvetica,sans-serif;line-height:18px;color:#666;border:1px
+solid #D1D1D1;background:white}.tf_cf_select:focus{outline:0
+none}.contact-form
+h3{margin:0
+!important}.contact-form
+.field_text{margin-right:20px}#reservationForm .field_text .tfuse_rf_post_datepicker_in, #reservationForm .field_text
+.tfuse_rf_post_datepicker_out{background-image:url("http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/reservationform/static/css/../../../../../images/icons/icon_calendar.png");background-repeat:no-repeat;background-position:7px 11px;padding-left:30px;width:16px;height:18px}#TB_ajaxContent .reservationForm,#TB_ajaxContent .reservationForm
+label{color:#000}#TB_ajaxContent #reservationForm .field_text .tfuse_rf_post_datepicker_in,#TB_ajaxContent #reservationForm .field_text
+.tfuse_rf_post_datepicker_out{background-image:url("http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/reservationform/static/css/../../../../../images/icons/icon_calendar.png") !important;background-repeat:no-repeat !important;background-position:7px 7px !important;padding-left:30px;width:16px;height:32px}#TB_ajaxContent
+.tfuse_captcha_input{height:32px}#TB_ajaxContent .field_text
+select{height:30px}#TB_ajaxContent .field_text
+.inputtext{margin-right:0}#TB_ajaxContent
+#send_reservation{display:inline-block;float:right;margin:0;line-height:29px;height:29px;padding:0
+20px;border:none;color:#fff;font-size:10px;font-weight:bold;text-transform:uppercase;text-align:center;background:#212121}#TB_ajaxContent
+.rowSubmit{width:100%}#TB_ajaxContent .link-reset{color:#a409ba !important;text-decoration:none}#TB_ajaxContent .link-reset:hover{color:#008000 !important}#TB_ajaxContent .reservationForm
+form{padding-bottom:50px !important}
+/* end of /wp-content/themes/voyage-parent/theme_config/extensions/reservationform/static/css/reservation_form.css */

@@ -1,6 +1,8 @@
 <?php get_header(); ?>
 <?php $sidebar_position = tfuse_sidebar_position(); ?>
-<?php global $post; ?>
+<?php global $post;  
+      global $wp_query;
+?>
 <div <?php tfuse_class('middle'); ?>>
 
     <div class="container_12">
@@ -62,9 +64,10 @@
 
         <?php if ($sidebar_position == 'left' || $sidebar_position == 'right') : ?>
             <div class="sidebar">
-                <?php // echo do_shortcode('[widget widget_name="TFuse_Holiday_Reservation"]'); ?>
+              <?php   $price = TF_SEEK_HELPER::get_post_option('property_price', '-', $wp_query->queried_object->ID); ?>
 
-                <?php echo do_shortcode('[tfuse_reservationform tf_rf_formid="33"]'); ?>
+                <h3 class="cina">Ціна: <span style="margin-left: 12px;"><span><?php echo $price ?></span> Грн.</span> </h3>
+                <?php echo do_shortcode('[tfuse_reservationform tf_rf_formid="32"]'); ?>
 
                 <?php // get_sidebar();   ?>
             </div><!--/ .sidebar -->
