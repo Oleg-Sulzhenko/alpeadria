@@ -1,0 +1,51 @@
+.comment-form .row
+label{display:inline}.contact-form
+.tfuse_captcha_input{height:18px;padding:10px;border-radius:0px}.tfuse_captcha_reload{background-image:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/contactform/static/css/../images/reload.png)!important;background-repeat:no-repeat!important;height:18px !important;margin-top:15px !important;max-width:16px !important;vertical-align:top;background-color:transparent;margin-left:10px;border:0px;width:20px}.contact-form
+.omega{margin-right:0px !important}.checkbox{background:none}.tf_cf_select{border:1px
+solid #D1D1D1;border-radius:0 0 0 0;height:38px;margin-top:2px;-webkit-box-shadow:0px 1px 0px 0px white;-moz-box-shadow:0px 1px 0px 0px #fff;box-shadow:0px 1px 0px 0px white;font-size:13px;font-family:Arial,Helvetica,sans-serif;line-height:18px;color:#666;border:1px
+solid #D1D1D1;background:white}.tf_cf_select:focus{outline:0
+none}.contact-form
+h3{margin:0
+!important}.contact-form
+.field_text{margin-right:20px}#TB_ajaxContent .add-comment{margin:20px
+0 40px 0;position:relative;background:#e9e9e9}#TB_ajaxContent .add-comment .add-comment-title{border:8px
+solid #e1e1e1;border-bottom:none}#TB_ajaxContent .add-comment h3,
+#TB_ajaxContent .contact-form
+h3{height:55px;line-height:55px;color:#333;font-size:25px;text-shadow:0 1px 1px #fff;text-transform:uppercase;padding:0
+20px;margin:0}#TB_ajaxContent .comment-form{background:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/contactform/static/css/../images/comment-form_bg.png) 0 0 repeat-x #e1e1e1;border-top:1px solid #d1d1d1;padding:0
+8px 8px 8px}#TB_ajaxContent .comment-form
+form{padding:15px
+15px;background:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/contactform/static/css/../images/comment-form_bg.png) 0 0 repeat-x #e9e9e9}#TB_ajaxContent .comment-form
+.row{padding:3px
+0}#TB_ajaxContent .comment-form .row
+label{color:#000;font-size:13px;display:block}#TB_ajaxContent .comment-form .inputtext,
+#TB_ajaxContent .comment-form
+.textarea{font-size:14px;line-height:18px;color:#666;border:1px
+solid #d1d1d1;background:#fff;width:255px;margin:3px
+0;-webkit-box-shadow:inset 0px 0px 3px 0px rgba(0, 0, 0, 0.15) !important;-moz-box-shadow:inset 0px 0px 3px 0px rgba(0, 0, 0, 0.15) !important;box-shadow:inset 0px 0px 3px 0px rgba(0, 0, 0, 0.15) !important;border-radius:0px;-webkit-border-radius:0px;padding:7px
+10px}#TB_ajaxContent .comment-form
+.input_full{width:552px}#TB_ajaxContent .comment-form
+.inputtext{padding:10px;height:18px}#TB_ajaxContent .comment-form
+.space{width:20px;height:40px;float:left}#TB_ajaxContent .comment-form .inputtext:focus,
+#TB_ajaxContent .comment-form .textarea:focus{border:1px
+solid #b7b7b7}#TB_ajaxContent .comment-form
+.textarea{width:552px;height:100px;padding:10px;overflow:auto}#TB_ajaxContent input.btn-submit,
+#TB_ajaxContent .contact-form .btn-submit,
+#TB_ajaxContent .comment-form .btn-submit,
+#TB_ajaxContent
+.btn_big{display:inline-block;margin:0;line-height:29px;height:29px;padding:0
+20px;border:none;color:#fff;font-size:10px;font-weight:bold;text-transform:uppercase;text-align:center;background:#212121;background:-webkit-gradient(linear, left top, left bottom, from(#404040), to(#212121));background:-webkit-linear-gradient(top, #404040, #212121);background:-moz-linear-gradient(top, #404040, #212121);background:-ms-linear-gradient(top, #404040, #212121);background:-o-linear-gradient(top, #404040, #212121);-webkit-border-radius:5px;border-radius:5px;-webkit-box-shadow:rgba(0,0,0,1) 0 1px 0;-moz-box-shadow:rgba(0,0,0,1) 0 1px 0;box-shadow:rgba(0,0,0,1) 0 1px 0;text-shadow:rgba(0,0,0,.4) 0 1px 0}#TB_ajaxContent
+.btn_big{line-height:36px;height:36px;padding:0
+25px;font-size:12px}#TB_ajaxContent .contact-form .btn-submit,
+#TB_ajaxContent .comment-form .btn-submit{line-height:36px;height:36px;padding:0
+25px;font-size:12px}#TB_ajaxContent .contact-form .btn-submit{position:relative;right:0;top:0}#TB_ajaxContent .contact-form
+.rowSubmit{text-align:right;float:none !important;padding-top:15px}#TB_ajaxContent .link-reset{float:left;color:#a409ba;font-size:15px;font-family:"Sorts Mill Goudy","Times New Roman",Times,serif;font-style:italic;margin-top:12px}#TB_ajaxContent .contact-form{padding:0}#TB_ajaxContent .comment-form
+form{padding:15px
+15px;background:url(http://alpeadria.work/wp-content/themes/voyage-parent/theme_config/extensions/contactform/static/css/../images/comment-form_bg.png) 0 0 repeat-x #e9e9e9}#TB_ajaxContent .contact-form
+.row{float:left}#TB_ajaxContent input[type="text"],#TB_ajaxContent input[type="password"],#TB_ajaxContent
+textarea{background:#fff !important}#TB_ajaxContent .comment-form
+.inputtext{height:40px !important}#TB_ajaxContent .contact-form .link-reset{color:#a409ba !important;text-decoration:none}#TB_ajaxContent .contact-form .link-reset:hover{color:#008000 !important}#TB_ajaxContent .contact-form
+.tfuse_captcha_input{height:32px}#TB_ajaxContent .contact-form .field_select
+select{height:38px}#TB_ajaxContent .comment-form .row.checkbox label,#TB_ajaxContent .comment-form .row .multicheckbox label,#TB_ajaxContent .comment-form .field_select
+label{display:inline}#TB_ajaxContent .contact-form input[type="radio"],#TB_ajaxContent .contact-form input[type="checkbox"]{margin-right:10px;margin-left:10px;margin-top:4px}
+/* end of /wp-content/themes/voyage-parent/theme_config/extensions/contactform/static/css/contact_form.css */

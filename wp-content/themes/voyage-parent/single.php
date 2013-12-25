@@ -36,7 +36,7 @@
                 ?>
             </div>
             <?php get_template_part('photo', 'gallery'); ?>
-<?php endif; ?>
+        <?php endif; ?>
         <div <?php tfuse_class('content'); ?>>
 
             <?php while (have_posts()) : the_post(); ?>
@@ -52,7 +52,7 @@
 
                 <?php tfuse_comments(); ?>
 
-<?php endwhile; // end of the loop.   ?>
+            <?php endwhile; // end of the loop.   ?>
 
 
         </div>
@@ -60,12 +60,15 @@
 
 
 
-            <?php if ($sidebar_position == 'left' || $sidebar_position == 'right') : ?>
+        <?php if ($sidebar_position == 'left' || $sidebar_position == 'right') : ?>
             <div class="sidebar">
-                <?php echo do_shortcode('[tfuse_reservationform tf_rf_formid="28"]'); ?>
-            <?php // get_sidebar();   ?>
+                <?php // echo do_shortcode('[widget widget_name="TFuse_Holiday_Reservation"]'); ?>
+
+                <?php echo do_shortcode('[tfuse_reservationform tf_rf_formid="33"]'); ?>
+
+                <?php // get_sidebar();   ?>
             </div><!--/ .sidebar -->
-<?php endif; ?>
+        <?php endif; ?>
 
         <div class="clear"></div>
     </div>

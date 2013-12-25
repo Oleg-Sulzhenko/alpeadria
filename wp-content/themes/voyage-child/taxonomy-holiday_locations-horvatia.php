@@ -469,26 +469,6 @@ if ($get_order_by == 'price') {
 
                     <div class="clear"></div>
 
-
-
-                    <?php
-                    $taxonomyName = "holiday_locations";
-
-                    $terms = get_terms($taxonomyName, array('parent' => 0));
-
-                    foreach ($terms as $term) {
-                        echo '<a href="' . get_term_link($term->slug, $taxonomyName) . '">' . $term->description . '</a>';
-                        ?>
-
-                        <a class="single-library-cat" href="<?php echo get_term_link($term->slug, $taxonomyName) ?>">
-                            <img src="<?php the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
-                            <?php echo $term->name; ?>
-                        </a>
-
-                    <?php } ?>
-
-
-
                 </div>
                 <!--/ .container_12 -->
 

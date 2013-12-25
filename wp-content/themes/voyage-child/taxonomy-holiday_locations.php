@@ -120,14 +120,14 @@ if ($get_order_by == 'price') {
         <div class="content">
             
             <div class="term-description">
+                <img style="float: left; margin-right: 12px;" src="<?php the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
                 <h1> <?php echo $term->name; ?> </h1>
-                <img src="<?php the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
+                <br/>
                 <?php the_field('gavnpo', $taxonomyName . '_' . $term->term_id); ?>
             </div>
-            
 
             <!-- sorting, pages -->
-            <div class="block_hr list_manage">
+<!--            <div class="block_hr list_manage">
                 <form action="#" method="post" class="form_sort">
                     <span class="manage_title"><?php _e('Sort by', 'tfuse'); ?>:</span>
                     <select class="select_styled white_select" name="sort_list" id="sort_list">
@@ -161,11 +161,12 @@ if ($get_order_by == 'price') {
                 </div>
 
                 <div class="clear"></div>
-            </div>
+            </div>-->
             <!--/ sorting, pages -->
 
             
             <!-- offers list -->
+            <h3>Усі пропозиції</h3>
             <div class="re-list">
                 <?php if (count($holidays)):
                 $price_suffix = TF_SEEK_HELPER::get_option('seek_property_regular_price_suffix','');

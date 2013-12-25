@@ -22,7 +22,7 @@ $post_meta_top = (!tfuse_page_options('disable_published_date') || !tfuse_page_o
     <?php endif; ?>
     <div class="entry">
         <?php tfuse_media(); ?>
-        <?php the_content(); ?>z
+        <?php the_content(); ?>
     </div><!--/ .entry -->
     <?php if ( !tfuse_page_options('disable_share_buttons') ) : ?>
     <!-- post share -->

@@ -10,7 +10,10 @@ Template: voyage-parent
 @import url("../voyage-parent/style.css");
 
 /*all hidden elements*/
-.hide, .logo, .title_right{
+.hide, .logo, .title_right, .post-meta-top .author, .link-reset,
+label[for="voyage_holidayurl"],
+input[name="voyage_holidayurl"]
+{
     display: none !important;
 }
 
@@ -203,17 +206,48 @@ img {
 
 .pages_jump {
     margin-left: 22px !important;
- 
+
 }
-#reservationForm .field_text input{
-    width: 212px !important;
+#reservationForm .field_text input,
+#reservationForm .field_textarea textarea{
+    width: 232px !important;
 }
 #reservationForm .field_text {
     margin-right: 0 !important
 }
-#reservationForm .field_text .tfuse_rf_post_datepicker_in{
+#reservationForm .field_text .tfuse_rf_post_datepicker_in,
+#reservationForm .field_text .tfuse_rf_post_datepicker_out{
     padding-left: 10px !important;
 }
 .horvatia-foto-banner {
-    height: 500px;
+    height: 474px;
+}
+#countries-block .country-box{
+    width: 20%;
+    float: left;
+    margin-bottom: 36px;
+}
+#countries-block .country-box a img{
+    max-width: 32px;
+    height: auto;
+    margin-right: 8px;
+}
+#countries-block .country-box a span{
+    color: #171719;
+    font-size: 16px;
+    line-height: 30px;
+    vertical-align: top;
+}
+#countries-block .country-box a:hover span{
+    color: #E676FF;
+}
+.contact-address .name{
+    font-size: 14px;
+}
+.post-meta-top .meta-date{
+    float: left;
+    text-indent: 0;
+}
+.post-meta-top{
+    text-indent: -9999px;
 }
