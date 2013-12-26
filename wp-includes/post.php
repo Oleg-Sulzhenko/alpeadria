@@ -19,7 +19,7 @@
 function create_initial_post_types() {
 	register_post_type( 'post', array(
 		'labels' => array(
-			'name_admin_bar' => _x( 'Post', 'add new on admin bar' ),
+			'name_admin_bar' => _x( 'Новини', 'add new on admin bar' ),
 		),
 		'public'  => true,
 		'_builtin' => true, /* internal use only. don't use this when registering your own post type. */
@@ -1479,7 +1479,7 @@ function _post_type_meta_capabilities( $capabilities = null ) {
  */
 function get_post_type_labels( $post_type_object ) {
 	$nohier_vs_hier_defaults = array(
-		'name' => array( _x('Posts', 'post type general name'), _x('Pages', 'post type general name') ),
+		'name' => array( _x('Новини', 'post type general name'), _x('Pages', 'post type general name') ),
 		'singular_name' => array( _x('Post', 'post type singular name'), _x('Page', 'post type singular name') ),
 		'add_new' => array( _x('Add New', 'post'), _x('Add New', 'page') ),
 		'add_new_item' => array( __('Add New Post'), __('Add New Page') ),

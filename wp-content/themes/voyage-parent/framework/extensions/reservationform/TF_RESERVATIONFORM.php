@@ -66,9 +66,9 @@ class TF_RESERVATIONFORM extends TF_TFUSE
     function add_menu()
     {
         if (function_exists('add_object_page'))
-            add_object_page(__('Reservation Forms Settings', 'tfuse'), apply_filters('res_form_top_menu',__('Reservations', 'tfuse')), 'publish_pages', 'tf_reservations_list', array($this, 'list_reservations'));
+            add_object_page(__('Reservation Forms Settings', 'tfuse'), apply_filters('res_form_top_menu',__('Резервації', 'tfuse')), 'publish_pages', 'tf_reservations_list', array($this, 'list_reservations'));
         else
-            add_menu_page(__('Reservation Forms Settings', 'tfuse'), apply_filters('res_form_top_menu',__('Reservations')), 'publish_pages', 'tf_reservations_list', array($this, 'list_reservations'));
+            add_menu_page(__('Reservation Forms Settings', 'tfuse'), apply_filters('res_form_top_menu',__('Резервації')), 'publish_pages', 'tf_reservations_list', array($this, 'list_reservations'));
         add_submenu_page('tf_reservations_list', apply_filters('res_form_res_list',__('User Reservations', 'tfuse')), apply_filters('res_form_res_list',__('User Reservations', 'tfuse')), 'publish_pages', 'tf_reservations_list', array($this, 'list_reservations'));
         add_submenu_page('tf_reservations_list', apply_filters('res_form_all_forms',__('All Reservation Forms', 'tfuse')), apply_filters('res_form_all_forms',__('All Reservation Forms', 'tfuse')), 'publish_pages', 'tf_reservation_forms_list', array($this, 'list_forms'));
         add_submenu_page('tf_reservations_list', apply_filters('res_form_add_new',__('Add New Form', 'tfuse')), apply_filters('res_form_add_new',__('Add New Form', 'tfuse')), 'publish_pages', 'tf_reservation_form', array($this, 'show_add_form'));

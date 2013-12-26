@@ -16,13 +16,13 @@ if ( !function_exists('tfuse_create_custom_post_types') ) :
     {
         // TESTIMONIALS
         $labels = array(
-            'name' => __('Testimonials', 'tfuse'),
-            'singular_name' => __('Testimonial', 'tfuse'),
-            'add_new' => __('Add New', 'tfuse'),
-            'add_new_item' => __('Add New Testimonial', 'tfuse'),
-            'edit_item' => __('Edit Testimonial', 'tfuse'),
-            'new_item' => __('New Testimonial', 'tfuse'),
-            'all_items' => __('All Testimonials', 'tfuse'),
+            'name' => __('Відгуки', 'tfuse'),
+            'singular_name' => __('Відгуки', 'tfuse'),
+            'add_new' => __('Додати', 'tfuse'),
+            'add_new_item' => __('Додати новий відгук', 'tfuse'),
+            'edit_item' => __('Редагувати відгук', 'tfuse'),
+            'new_item' => __('Новий відгук', 'tfuse'),
+            'all_items' => __('Всі відгуки', 'tfuse'),
             'view_item' => __('View Testimonial', 'tfuse'),
             'search_items' => __('Search Testimonials', 'tfuse'),
             'not_found' =>  __('Nothing found', 'tfuse'),

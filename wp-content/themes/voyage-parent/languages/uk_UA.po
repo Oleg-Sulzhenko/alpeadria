@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Voyage Parent v1.1.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-25 16:47:31+0000\n"
+"PO-Revision-Date: 2013-12-26 00:14:29+0000\n"
 "Last-Translator: admin <example@gmail.om>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1086,7 +1086,7 @@ msgstr ""
 #: theme_config/extensions/shortcodes/shortcodes/divider.php:66
 #: theme_config/extensions/shortcodes/shortcodes/map.php:66
 #: theme_config/extensions/shortcodes/shortcodes/prettyPhoto.php:46
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:249
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:272
 #: theme_config/extensions/shortcodes/shortcodes/title.php:28
 #@ tfuse
 msgid "Type"
@@ -1675,7 +1675,7 @@ msgstr ""
 #: theme_config/extensions/seek/includes/custom_taxonomies.php:57
 #@ tfuse
 msgid "All"
-msgstr ""
+msgstr "Всі "
 
 #: framework/extensions/reservationform/views/list_reservations.php:29
 #: framework/extensions/reservationform/views/list_reservations.php:123
@@ -1774,7 +1774,7 @@ msgstr ""
 #: framework/extensions/seek/TF_SEEK.php:149
 #@ tfuse
 msgid "All "
-msgstr ""
+msgstr "Всі "
 
 #: framework/extensions/seek/TF_SEEK.php:228
 #@ tfuse
@@ -2680,7 +2680,7 @@ msgstr ""
 #: theme_config/options/admin_options.php:556
 #@ tfuse
 msgid "Posts"
-msgstr ""
+msgstr "Новини"
 
 #: framework/extensions/sidebars/views/main_box.php:118
 #@ tfuse
@@ -2883,7 +2883,7 @@ msgstr ""
 #: framework/extensions/slider/TF_SLIDER.php:133
 #@ tfuse
 msgid "Sliders"
-msgstr ""
+msgstr "Слайдер"
 
 #: framework/extensions/slider/TF_SLIDER.php:134
 #@ tfuse
@@ -4256,11 +4256,6 @@ msgid "Search"
 msgstr ""
 
 #: similar-holidays.php:67
-#@ tfuse
-msgid "OTHER SIMILAR "
-msgstr "Подібні "
-
-#: similar-holidays.php:67
 #: taxonomy.php:185
 #: template-search.php:134
 #@ tfuse
@@ -4268,7 +4263,7 @@ msgid ":"
 msgstr ""
 
 #: similar-holidays.php:89
-#: single.php:24
+#: single.php:31
 #: taxonomy.php:186
 #: template-search.php:135
 #@ tfuse
@@ -4535,7 +4530,7 @@ msgid "Reservation Forms"
 msgstr ""
 
 #: theme_config/common_includes/CUSTOM_POSTS.php:77
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:244
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:267
 #@ tfuse
 msgid "Reservation Form"
 msgstr ""
@@ -5415,7 +5410,7 @@ msgstr ""
 #: theme_config/extensions/seek/options/items_options.php:129
 #@ tfuse
 msgid "All Sub Locations"
-msgstr "Регіон"
+msgstr "Доступні регіони"
 
 #: theme_config/extensions/seek/options/items_options.php:128
 #@ default
@@ -5580,7 +5575,7 @@ msgstr ""
 #: theme_config/extensions/shortcodes/shortcodes/quotes.php:40
 #: theme_config/extensions/shortcodes/shortcodes/quotes.php:63
 #: theme_config/extensions/shortcodes/shortcodes/quotes.php:89
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:245
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:268
 #: theme_config/extensions/shortcodes/shortcodes/rows.php:18
 #: theme_config/extensions/shortcodes/shortcodes/rows.php:52
 #: theme_config/extensions/shortcodes/shortcodes/search.php:33
@@ -6037,7 +6032,7 @@ msgid "Contact Form"
 msgstr ""
 
 #: theme_config/extensions/shortcodes/shortcodes/contactform.php:219
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:250
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:273
 #@ tfuse
 msgid "Select the form"
 msgstr ""
@@ -6714,18 +6709,19 @@ msgstr ""
 msgid "Enter Quotes Author"
 msgstr ""
 
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:217
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:237
 #@ tfuse
 msgid "Sending ..."
 msgstr ""
 
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:262
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:268
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:277
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:294
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:286
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:293
 #: theme_config/extensions/shortcodes/shortcodes/reservationform.php:302
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:310
-#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:322
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:320
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:329
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:337
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:338
+#: theme_config/extensions/shortcodes/shortcodes/reservationform.php:350
 #@ tfuse
 msgid "label_text"
 msgstr ""
@@ -8105,7 +8101,6 @@ msgid "Disable Themefuse Style"
 msgstr ""
 
 #: theme_config/options/admin_options.php:370
-#: theme_config/theme_includes/THEME_FUNCTIONS.php:1076
 #@ tfuse
 msgid "Homepage"
 msgstr "Головна"
@@ -8948,7 +8943,7 @@ msgstr ""
 #: theme_config/widgets/TF_Widget_Meta.php:48
 #: theme_config/widgets/TF_Widget_Pages.php:55
 #: theme_config/widgets/TF_Widget_Recent_Comments.php:111
-#: theme_config/widgets/TF_Widget_Recent_Posts.php:50
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:59
 #: theme_config/widgets/TF_Widget_Search.php:49
 #: theme_config/widgets/TF_Widget_Tag_Cloud.php:54
 #: theme_config/widgets/TF_Widget_Text.php:67
@@ -9051,7 +9046,7 @@ msgid "Discussed Posts"
 msgstr ""
 
 #: theme_config/widgets/TF_Widget_Commented_Posts.php:54
-#: theme_config/widgets/TF_Widget_Recent_Posts.php:54
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:63
 #: theme_config/widgets/TFuse_Widget_Popular_Post.php:55
 #: theme_config/widgets/TFuse_Widget_Tabs.php:67
 #@ tfuse
@@ -9289,12 +9284,12 @@ msgstr ""
 msgid "View All Posts Button"
 msgstr ""
 
-#: theme_config/widgets/TF_Widget_Recent_Posts.php:8
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:9
 #@ tfuse
 msgid "TFuse - Recent Posts"
 msgstr ""
 
-#: theme_config/widgets/TF_Widget_Recent_Posts.php:13
+#: theme_config/widgets/TF_Widget_Recent_Posts.php:14
 #: theme_config/widgets/TFuse_Widget_Tabs.php:26
 #@ default
 #@ tfuse
@@ -9584,5 +9579,15 @@ msgstr ""
 #: theme_config/widgets/TFuse_Widget_Twitter.class.php:74
 #@ tfuse
 msgid "Limit:"
+msgstr ""
+
+#: similar-holidays.php:67
+#@ tfuse
+msgid "Схожі "
+msgstr ""
+
+#: theme_config/theme_includes/THEME_FUNCTIONS.php:1076
+#@ tfuse
+msgid "Головна"
 msgstr ""
 

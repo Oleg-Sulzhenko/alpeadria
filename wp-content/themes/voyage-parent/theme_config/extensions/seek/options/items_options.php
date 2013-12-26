@@ -125,7 +125,7 @@ $options = array(
         'template'              => 'sub-terms',
         'template_vars'         => array(
             'default_option'    => __('All Sub Locations', 'tfuse'),
-            'no_terms'          => __('No Sub Locations'),
+            'no_terms'          => __('Регіони відсутні'),
             'all_sub_terms'     => __('All Sub Locations', 'tfuse'),
             'select_class'      => 'tf-seek-long-select-form-item-header',
         ),

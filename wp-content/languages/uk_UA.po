@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WordPress v3.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-12-25 13:38:24+0000\n"
+"PO-Revision-Date: 2013-12-26 00:11:01+0000\n"
 "Last-Translator: admin <example@gmail.om>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3211,7 +3211,7 @@ msgstr ""
 #@ admin
 #@ default
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 #: wp-admin/edit-link-form.php:29
 #: wp-admin/includes/meta-boxes.php:790
@@ -3990,7 +3990,7 @@ msgstr ""
 #@ admin
 #@ default
 msgid "Pages"
-msgstr ""
+msgstr "Сторінки"
 
 #: wp-admin/export.php:240
 #@ admin
@@ -11450,7 +11450,7 @@ msgstr ""
 #@ admin
 #@ default
 msgid "All Categories"
-msgstr ""
+msgstr "Всі Категорії"
 
 #: wp-admin/includes/meta-boxes.php:769
 #: wp-admin/includes/meta-boxes.php:771
@@ -14314,7 +14314,7 @@ msgstr ""
 #@ admin
 #@ default
 msgid "All Posts"
-msgstr ""
+msgstr "Всі Новини"
 
 #. translators: add new post
 #: wp-admin/menu.php:52
@@ -14323,7 +14323,7 @@ msgstr ""
 #@ default
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "Додати"
 
 #: wp-admin/menu.php:64
 #@ admin
@@ -14341,14 +14341,14 @@ msgstr ""
 #@ admin
 #@ default
 msgid "Link Categories"
-msgstr ""
+msgstr "Категорії"
 
 #: wp-admin/menu.php:82
 #: wp-includes/post.php:1493
 #@ admin
 #@ default
 msgid "All Pages"
-msgstr ""
+msgstr "Всі Сторінки"
 
 #. translators: add new page
 #: wp-admin/menu.php:84
@@ -14357,7 +14357,7 @@ msgstr ""
 #@ default
 msgctxt "page"
 msgid "Add New"
-msgstr ""
+msgstr "Додати"
 
 #: wp-admin/menu.php:96
 #, php-format
@@ -18220,7 +18220,7 @@ msgstr ""
 #@ admin
 #@ default
 msgid "Tags"
-msgstr ""
+msgstr "Теги"
 
 #: wp-admin/press-this.php:559
 #: wp-includes/taxonomy.php:475
@@ -20307,13 +20307,13 @@ msgstr ""
 #@ default
 msgctxt "admin bar menu group label"
 msgid "New"
-msgstr ""
+msgstr "Додати"
 
 #: wp-includes/admin-bar.php:551
 #@ default
 msgctxt "admin bar menu group label"
 msgid "Add New"
-msgstr ""
+msgstr "Додати"
 
 #: wp-includes/admin-bar.php:580
 #, php-format
@@ -20412,7 +20412,7 @@ msgstr ""
 #: wp-includes/category-template.php:1038
 #@ default
 msgid "Tags: "
-msgstr ""
+msgstr "Теги:"
 
 #: wp-includes/class-http.php:118
 #: wp-includes/class-wp-xmlrpc-server.php:5326
@@ -22778,7 +22778,7 @@ msgstr ""
 #: wp-includes/locale.php:146
 #@ default
 msgid "January"
-msgstr ""
+msgstr "Cічень"
 
 #. translators: month name
 #: wp-includes/js/tinymce/langs/wp-langs.php:93
@@ -22794,7 +22794,7 @@ msgstr ""
 #: wp-includes/locale.php:148
 #@ default
 msgid "March"
-msgstr ""
+msgstr "Березень"
 
 #. translators: month name
 #: wp-includes/js/tinymce/langs/wp-langs.php:93
@@ -22818,7 +22818,7 @@ msgstr ""
 #: wp-includes/locale.php:151
 #@ default
 msgid "June"
-msgstr ""
+msgstr "Червень"
 
 #. translators: month name
 #: wp-includes/js/tinymce/langs/wp-langs.php:93
@@ -22826,7 +22826,7 @@ msgstr ""
 #: wp-includes/locale.php:152
 #@ default
 msgid "July"
-msgstr ""
+msgstr "Липень"
 
 #. translators: month name
 #: wp-includes/js/tinymce/langs/wp-langs.php:93
@@ -22834,7 +22834,7 @@ msgstr ""
 #: wp-includes/locale.php:153
 #@ default
 msgid "August"
-msgstr ""
+msgstr "Серпень"
 
 #. translators: month name
 #: wp-includes/js/tinymce/langs/wp-langs.php:93
@@ -22866,7 +22866,7 @@ msgstr ""
 #: wp-includes/locale.php:157
 #@ default
 msgid "December"
-msgstr ""
+msgstr "Грудень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
@@ -22880,7 +22880,7 @@ msgstr ""
 #: wp-includes/locale.php:147
 #@ default
 msgid "Feb_February_abbreviation"
-msgstr ""
+msgstr "Лютий"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
@@ -22894,63 +22894,63 @@ msgstr ""
 #: wp-includes/locale.php:149
 #@ default
 msgid "Apr_April_abbreviation"
-msgstr ""
+msgstr "Квітень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:150
 #@ default
 msgid "May_May_abbreviation"
-msgstr ""
+msgstr "Травень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:151
 #@ default
 msgid "Jun_June_abbreviation"
-msgstr ""
+msgstr "Червень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:152
 #@ default
 msgid "Jul_July_abbreviation"
-msgstr ""
+msgstr "Липень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:153
 #@ default
 msgid "Aug_August_abbreviation"
-msgstr ""
+msgstr "Серпень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:154
 #@ default
 msgid "Sep_September_abbreviation"
-msgstr ""
+msgstr "Вересень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:155
 #@ default
 msgid "Oct_October_abbreviation"
-msgstr ""
+msgstr "Жовтень"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:156
 #@ default
 msgid "Nov_November_abbreviation"
-msgstr ""
+msgstr "Листопад"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #: wp-includes/locale.php:157
 #@ default
 msgid "Dec_December_abbreviation"
-msgstr ""
+msgstr "Грудень"
 
 #. translators: weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:95
@@ -23020,49 +23020,49 @@ msgstr ""
 #: wp-includes/locale.php:122
 #@ default
 msgid "Sun"
-msgstr ""
+msgstr "Неділя"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:123
 #@ default
 msgid "Mon"
-msgstr ""
+msgstr "Понеділок"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:124
 #@ default
 msgid "Tue"
-msgstr ""
+msgstr "ВІвторок"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:125
 #@ default
 msgid "Wed"
-msgstr ""
+msgstr "Середа"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:126
 #@ default
 msgid "Thu"
-msgstr ""
+msgstr "Четверг"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:127
 #@ default
 msgid "Fri"
-msgstr ""
+msgstr "П'ятниця"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/js/tinymce/langs/wp-langs.php:96
 #: wp-includes/locale.php:128
 #@ default
 msgid "Sat"
-msgstr ""
+msgstr "Субота"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:100
 #@ default
@@ -25912,7 +25912,7 @@ msgstr ""
 #: wp-includes/post-template.php:640
 #@ default
 msgid "Pages:"
-msgstr ""
+msgstr "Сторінки:"
 
 #: wp-includes/post-template.php:646
 #@ default
@@ -25984,17 +25984,11 @@ msgstr ""
 msgid "JavaScript must be enabled to use this feature."
 msgstr ""
 
-#: wp-includes/post.php:22
-#@ default
-msgctxt "add new on admin bar"
-msgid "Post"
-msgstr ""
-
 #: wp-includes/post.php:38
 #@ default
 msgctxt "add new on admin bar"
 msgid "Page"
-msgstr ""
+msgstr "Сторінки"
 
 #: wp-includes/post.php:55
 #@ default
@@ -26012,7 +26006,7 @@ msgstr ""
 #@ default
 msgctxt "add new media"
 msgid "Add New"
-msgstr ""
+msgstr "Додати"
 
 #: wp-includes/post.php:59
 #@ default
@@ -26132,14 +26126,8 @@ msgstr ""
 #: wp-includes/post.php:1482
 #@ default
 msgctxt "post type general name"
-msgid "Posts"
-msgstr ""
-
-#: wp-includes/post.php:1482
-#@ default
-msgctxt "post type general name"
 msgid "Pages"
-msgstr ""
+msgstr "Сторінки"
 
 #: wp-includes/post.php:1483
 #@ default
@@ -26156,12 +26144,12 @@ msgstr ""
 #: wp-includes/post.php:1485
 #@ default
 msgid "Add New Post"
-msgstr ""
+msgstr "Додати нову"
 
 #: wp-includes/post.php:1485
 #@ default
 msgid "Add New Page"
-msgstr ""
+msgstr "Додати нову"
 
 #: wp-includes/post.php:1486
 #@ default
@@ -26191,7 +26179,7 @@ msgstr ""
 #: wp-includes/post.php:1489
 #@ default
 msgid "Search Pages"
-msgstr ""
+msgstr "Шукати Сторінку"
 
 #: wp-includes/post.php:1490
 #@ default
@@ -26775,12 +26763,12 @@ msgstr ""
 #: wp-includes/taxonomy.php:83
 #@ default
 msgid "Search Link Categories"
-msgstr ""
+msgstr "Шукати Категорії"
 
 #: wp-includes/taxonomy.php:85
 #@ default
 msgid "All Link Categories"
-msgstr ""
+msgstr "Всі Категорії"
 
 #: wp-includes/taxonomy.php:86
 #@ default
@@ -26811,13 +26799,13 @@ msgstr ""
 #@ default
 msgctxt "taxonomy general name"
 msgid "Tags"
-msgstr ""
+msgstr "Теги"
 
 #: wp-includes/taxonomy.php:461
 #@ default
 msgctxt "taxonomy general name"
 msgid "Categories"
-msgstr ""
+msgstr "Категорії"
 
 #: wp-includes/taxonomy.php:462
 #@ default
@@ -26834,7 +26822,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:463
 #@ default
 msgid "Search Tags"
-msgstr ""
+msgstr "Шукати Теги"
 
 #: wp-includes/taxonomy.php:463
 #@ default
@@ -26844,12 +26832,12 @@ msgstr ""
 #: wp-includes/taxonomy.php:464
 #@ default
 msgid "Popular Tags"
-msgstr ""
+msgstr "Популярні Теги"
 
 #: wp-includes/taxonomy.php:465
 #@ default
 msgid "All Tags"
-msgstr ""
+msgstr "Всі Теги"
 
 #: wp-includes/taxonomy.php:466
 #@ default
@@ -26894,12 +26882,12 @@ msgstr ""
 #: wp-includes/taxonomy.php:471
 #@ default
 msgid "Add New Tag"
-msgstr ""
+msgstr "Додати новий"
 
 #: wp-includes/taxonomy.php:471
 #@ default
 msgid "Add New Category"
-msgstr ""
+msgstr "Додати нову"
 
 #: wp-includes/taxonomy.php:472
 #@ default
@@ -27278,7 +27266,7 @@ msgstr ""
 msgid "Cannot create a user with an empty login name."
 msgstr ""
 
-#. translators: 1: first name, 2: last name 
+#. translators: 1: first name, 2: last name
 #: wp-includes/user.php:1369
 #, php-format
 #@ default
@@ -27373,5 +27361,17 @@ msgstr ""
 #, php-format
 #@ default
 msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
+msgstr ""
+
+#: wp-includes/post.php:22
+#@ default
+msgctxt "add new on admin bar"
+msgid "Новини"
+msgstr ""
+
+#: wp-includes/post.php:1482
+#@ default
+msgctxt "post type general name"
+msgid "Новини"
 msgstr ""
 
