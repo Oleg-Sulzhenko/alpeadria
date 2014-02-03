@@ -160,3 +160,8 @@
 .voyage_content_tabs_table a.tfbtq_shopping_delete_rows{
     margin-left: 3px !important;
 }
+
+
+.post-type-holiday .column-description{
+    display: none;
+}

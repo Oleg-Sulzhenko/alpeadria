@@ -101,15 +101,17 @@ if ($get_order_by == 'price') {
 <input type="hidden" id="tax_permalink" value="<?php echo get_term_link($tag->slug, $tag->taxonomy);?>">
 <input type="hidden" id="tax_results" page="<?php print $page ?>" num_pages="<?php print $num_pages ?>"
        get_order="<?php print $order; ?>" get_order_by="<?php print $get_order_by; ?>">
+
 <div <?php tfuse_class('middle'); ?>>
 
     <div class="container_12">
-
-        <?php if (!tfuse_options('disable_breadcrumbs')) {
-                    tfuse_breadcrumbs();
-                }
-        ?>
-
+    <a href="?holiday_locations=horvatia"><- Назад</a>
+    <h1> <?php echo $term->name; ?> </h1>
+    <br/>
+    <img src="http://placehold.it/960x360" />
+    <br/>
+    <hr/>
+    <br/>
         <?php if ($sidebar_position == 'left') : ?>
         <div class="grid_4 sidebar">
             <?php get_sidebar(); ?>
@@ -117,17 +119,49 @@ if ($get_order_by == 'price') {
         <?php endif; ?>
 
         <!-- content -->
-        <div class="content">
+        
+        <div class="content page-horvatia-content clearfix">
             
-            <div class="term-description">
+            <?php 
+            $aga_true = $term->parent == 24 || $term->parent == 36 || $term->parent == 63 || $term->parent == 45 || $term->parent == 55;
+            
+            if(!($aga_true)){ ?>
+             
+                <div class="choose-region-horvatia">
+                    <h3 class="widget-title">Міста, Курорти, Острова</h3>
+                    <?php
+                    $args_sub_categories = array(
+                        'child_of' => $term->term_id,
+                        'taxonomy' => $term->taxonomy,
+                        'hide_empty' => 0,
+                        'hierarchical' => true,
+                        'depth' => 1,
+                        'title_li' => ''
+                    );
+                    ?>
+
+                    <ul>
+                        <?php wp_list_categories($args_sub_categories); ?>
+                    </ul>
+
+                </div>
+            
+            <?php } ?>
+            
+            <div class="<?php if($aga_true){ echo 'full-width'; } ?> term-description">
                 <img style="float: left; margin-right: 12px;" src="<?php the_field('flag', $taxonomyName . '_' . $term->term_id); ?>" />
-                <h1> <?php echo $term->name; ?> </h1>
-                <br/>
+                <!--<h1> <?php echo $term->name; ?> </h1>-->
                 <?php the_field('gavnpo', $taxonomyName . '_' . $term->term_id); ?>
+                <p><?php echo $term->description; ?></p>
             </div>
+        </div>
+        <!--/ .content -->
+        
+        
+            <h3>Усі пропозиції</h3>
 
             <!-- sorting, pages -->
-<!--            <div class="block_hr list_manage">
+            <div class="block_hr list_manage">
                 <form action="#" method="post" class="form_sort">
                     <span class="manage_title"><?php _e('Sort by', 'tfuse'); ?>:</span>
                     <select class="select_styled white_select" name="sort_list" id="sort_list">
@@ -140,15 +174,24 @@ if ($get_order_by == 'price') {
                         <option value="5"<?php if ($sel == 5) { echo ' selected'; }?>><?php _e('Names Z-A', 'tfuse'); ?></option>
                     </select>
                 </form>
+                <div style="width: 30px; height: 30px; float: left;"></div> 
+                <form method="post" class="form_sort">
+                    <span class="manage_title">Тип пропозиції:</span>
+                    <select class="select_styled white_select" name="sort_list" id="sort_list2">
+                        <option value="1">Тури</option>
+                        <option value="2">Готелі</option>
+                        <option value="3">Приватний сектор</option>
+                    </select>
+                </form>
 
-                <div class="pages_jump">
+<!--                <div class="pages_jump">
                     <span class="manage_title"><?php _e('Jump to page', 'tfuse'); ?>:</span>
 
                     <form action="#" method="post">
                         <input type="text" name="jumptopage" value="<?php print $num_pages ?>" class="inputSmall"
                                id="jumptopage"><input id="jumptopage_submit" type="submit" class="btn-arrow" value="Go">
                     </form>
-                </div>
+                </div>-->
 
                 <div class="pages">
                     <span class="manage_title"><?php _e('Page', 'tfuse'); ?> : &nbsp;<strong><?php if ($page == 0) {
@@ -161,50 +204,32 @@ if ($get_order_by == 'price') {
                 </div>
 
                 <div class="clear"></div>
-            </div>-->
+            </div>
             <!--/ sorting, pages -->
 
             
             <!-- offers list -->
-            <h3>Усі пропозиції</h3>
-            <div class="re-list">
+            <div class="re-list horvatia-page-re-list clearfix">
                 <?php if (count($holidays)):
                 $price_suffix = TF_SEEK_HELPER::get_option('seek_property_regular_price_suffix','');
                 foreach ($holidays as $holiday): ?>
                     <div class="re-item">
-                        <div class="re-image">
-                            <?php if($holiday['reduction'] != 0) : ?><span class="ribbon off-<?php echo $holiday['reduction']; ?>"><?php _e('SALE:' ,'tfuse'); echo $holiday['reduction']; _e('% OFF', 'tfuse'); ?></span> <?php endif; ?>
-                            <a href="<?php print(get_permalink($holiday['ID'])); ?>"><?php tfuse_media($holiday['ID']);?><span class="caption"><?php _e('View More Details', 'tfuse'); ?></span></a>
-                        </div>
+                             <div class="re-image">
+                                            <?php if ($holiday['reduction'] != 0) : ?><a href="<?php print(get_permalink($holiday['ID'])); ?>"><span class="ribbon off-<?php echo $holiday['reduction']; ?>"><?php
+                                                _e('SALE:', 'tfuse');
+                                                echo $holiday['reduction'];
+                                                _e('% OFF', 'tfuse');
+                                                ?></span></a> <?php endif; ?>
+                                            <a href="<?php print(get_permalink($holiday['ID'])); ?>"><?php tfuse_media($holiday['ID']); ?><span class="caption"><?php print(esc_attr($holiday['post_title'])); ?></span></a>
+                                        </div>
 
-                        <div class="re-short">
-                            <div class="re-top">
-                                <h2><a href="<?php print(get_permalink($holiday['ID'])); ?>"><?php print(esc_attr($holiday['post_title'])); ?></a></h2>
-                                <?php
-                                $tags  =  get_the_terms($holiday['ID'], TF_SEEK_HELPER::get_post_type() . '_tag');
-                                    if (!is_wp_error($tags) && $tags) $tags = array_values($tags); else $tags = array();
-                                    $categories = get_the_terms($holiday['ID'], TF_SEEK_HELPER::get_post_type() . '_category');
-                                ?>
-                                <div class="re-subtitle"><?php if(!is_wp_error($categories) && sizeof($categories)) :  echo ucfirst (strtolower(reset($categories)->name)); _e(':', 'tfuse'); endif; ?>
-                                    <?php  if ( $tags && !is_wp_error( $tags ) && sizeof($tags) ) : echo '<strong>'; foreach($tags as $key => $tag) : echo '<a href="' . get_tag_link($tag) . '">'  . tfuse_qtranslate($tag->name) . '</a>'; if ($key != (sizeof($tags)-1)) _e(', ', 'tfuse'); endforeach; echo'</strong>'; endif; ?>
-                                    <?php if($holiday['sale_type'] == 2) : _e(' (', 'tfuse'); echo tfuse_page_options('during','1', $holiday['ID']); _e(' nights', 'tfuse'); _e(')'); endif; ?>
-                                </div>
-                            </div>
-                            <div class="re-descr">
-                                <p><?php echo tfuse_get_short_text($holiday['post_content'], 25); ?></p>
-                            </div>
-                        </div>
-                        <div class="re-bot">
-                            <span class="re-price"><?php _e('Price:', 'tfuse'); ?> <strong><?php print( TF_SEEK_HELPER::get_option('seek_property_currency_symbol','$')); print $holiday['price']; if($holiday['sale_type'] == 1) echo $price_suffix; ?></strong></span>
-                            <?php tfuse_get_holiday_images($holiday['ID']);?>
-                        </div>
+              
                         <div class="clear"></div>
                     </div>
                     <?php endforeach; ?>
                 <?php endif;    ?>
                 <?php if (($page > $num_pages) || (!count($holidays))) :
-                echo '<p>' . __('Page not found.', 'tfuse') . '</p>';
-                echo '<p>' . __('The page you were looking for doesn&rsquo;t seem to exist.', 'tfuse') . '</p>';
+                echo '<p style="color: red;">' . __('Нажаль пропозиції відсутні для данного регіону', 'tfuse') . '</p>';
             endif;
                 ?>
             </div>
@@ -212,7 +237,7 @@ if ($get_order_by == 'price') {
 
             <!-- sorting, pages -->
             <div class="block_hr list_manage">
-                <form action="#" method="post" class="form_sort">
+<!--                <form action="#" method="post" class="form_sort">
                     <span class="manage_title"><?php _e('Sort by', 'tfuse'); ?>:</span>
                     <select class="select_styled white_select" name="sort_list" id="sort_list2">
                         <option value="1"<?php if ($sel == 1) {
@@ -246,7 +271,7 @@ if ($get_order_by == 'price') {
                             'tfuse'
                         ); ?></option>
                     </select>
-                </form>
+                </form>-->
 
                 <div class="pages_jump">
                     <span class="manage_title"><?php _e('Jump to page', 'tfuse'); ?>:</span>
@@ -282,8 +307,7 @@ if ($get_order_by == 'price') {
             </div>
             <!--/ sorting, pages -->
 
-        </div>
-        <!--/ .content -->
+       
 
         <?php if ($sidebar_position == 'right') : ?>
         <div class="grid_4 sidebar">

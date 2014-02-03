@@ -217,11 +217,35 @@ if ($get_order_by == 'price') {
 
                         <?php while (have_posts()) : the_post(); ?> 
 
-                            <div class="page-horvatia-content jaht">
+                            <div class="page-horvatia-content jaht clearfix">
 
                                 <div  id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
                                     <div class="description"><?php the_content(); ?></div>
+                                    
+                                    <div class="choose-region-horvatia">
+                                        <h3 class="widget-title">Тури по регіонам</h3>
+                                        <?php
+                                        $args = array(
+                                            'child_of' => '15',
+                                            'taxonomy' => $term->taxonomy,
+                                            'hide_empty' => 0,
+                                            'hierarchical' => true,
+                                            'depth' => 1,
+                                            'title_li' => ''
+                                        );
+                                        
+                                        ?>
+
+                                                            <ul>
+                        <?php // wp_list_categories($args_sub_categories); ?>
+                        <li><a hrfe="#">Спеціальні пропозиції</a></li>
+                        <li><a hrfe="#">Рекомендовані маршрути</a></li>
+                        <li><a hrfe="#">Круїзи</a></li>
+                        <li><a hrfe="#">Варто знати!</a></li>
+                    </ul>
+
+                                    </div>
 
                                 </div>
 
@@ -306,7 +330,7 @@ if ($get_order_by == 'price') {
                         <!--/ sorting, pages -->
 
                         <!-- offers list -->
-                        <div class="re-list"  id="horvatia-page-re-list">
+                        <div class="re-list horvatia-page-re-list  clearfix">
                             <?php
                             if (count($holidays)):
                                 $price_suffix = TF_SEEK_HELPER::get_option('seek_property_regular_price_suffix', '');
@@ -441,6 +465,8 @@ if ($get_order_by == 'price') {
 
                     </div>
                     <!--/ .content -->
+                    
+                    
 
                     <?php if ($sidebar_position == 'right') : ?>
                         <div class="grid_4 sidebar">

@@ -148,25 +148,29 @@ img {
 .re-bot {
     min-height: 20px;
 }
-#horvatia-page-re-list .re-item {
+.re-list.horvatia-page-re-list .re-item {
     clear: none;
     float: left;
     padding: 20px 0;
     width: auto;
 }
-#horvatia-page-re-list .re-item .re-image {
+.re-list.horvatia-page-re-list .re-item .re-image {
     margin-left: 0;
     margin-right: 6px;
 }
-#horvatia-page-re-list .re-item:nth-child(4n+4) .re-image {
+.re-list.horvatia-page-re-list .re-item:nth-child(4n+4) .re-image {
     margin-right: 0;
 }
 .page-horvatia-content{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
+.page-horvatia-content .term-description,
 .page-horvatia-content .description{
     width: 70%;
     float: left;
+}
+.page-horvatia-content .term-description.full-width{
+    width: 100%;
 }
 .choose-region-horvatia{
     border: 8px solid #E5E6E6;
@@ -201,11 +205,12 @@ img {
 }
 .choose-region-horvatia ul li a{
     padding: 10px 30px;
+     cursor: pointer;
 }
 
 .page-horvatia-content.jaht .description{
-    width: 100%;
-    float: none;
+/*    width: 100%;
+    float: none;*/
 } 
 
 .cusel.parameter_name, #cuselFrame-cuSel-0, #cuselFrame-cuSel-3{
@@ -213,7 +218,7 @@ img {
 }
 
 .pages_jump {
-    margin-left: 22px !important;
+    margin-left: 0px !important;
 
 }
 #reservationForm .field_text input,

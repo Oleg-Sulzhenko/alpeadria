@@ -226,13 +226,14 @@ if ($get_order_by == 'price') {
                                         <h3 class="widget-title">Тури по регіонам</h3>
                                         <?php
                                         $args = array(
-                                            'child_of' => '24',
+                                            'child_of' => '15',
                                             'taxonomy' => $term->taxonomy,
-                                            'hide_empty' => 1,
+                                            'hide_empty' => 0,
                                             'hierarchical' => true,
                                             'depth' => 1,
                                             'title_li' => ''
                                         );
+                                        
                                         ?>
 
                                         <ul>
@@ -289,15 +290,17 @@ if ($get_order_by == 'price') {
                                     ?>><?php _e('Ціна - +', 'tfuse'); ?></option>
                                 </select>
                             </form>
+                            <div style="width: 30px; height: 30px; float: left;"></div> 
+                            <form method="post" class="form_sort">
+                                <span class="manage_title">Тип пропозиції:</span>
+                                <select class="select_styled white_select" name="sort_list" id="sort_list2">
+                                    <option value="1">Тури</option>
+                                    <option value="2">Готелі</option>
+                                    <option value="3">Приватний сектор</option>
+                                </select>
+                            </form>
 
-                            <div class="pages_jump">
-                                <span class="manage_title"><?php _e('Перейти до сторінки', 'tfuse'); ?>:</span>
-
-                                <form action="#" method="post">
-                                    <input type="text" name="jumptopage" value="<?php print $num_pages ?>" class="inputSmall"
-                                           id="jumptopage"><input id="jumptopage_submit" type="submit" class="btn-arrow" value="Go">
-                                </form>
-                            </div>
+                     
 
                             <div class="pages">
                                 <span class="manage_title"><?php _e('Сторінка', 'tfuse'); ?> : &nbsp;<strong><?php
@@ -325,7 +328,7 @@ if ($get_order_by == 'price') {
                         <!--/ sorting, pages -->
 
                         <!-- offers list -->
-                        <div class="re-list"  id="horvatia-page-re-list">
+                        <div class="re-list horvatia-page-re-list  clearfix">
                             <?php
                             if (count($holidays)):
                                 $price_suffix = TF_SEEK_HELPER::get_option('seek_property_regular_price_suffix', '');
@@ -403,7 +406,7 @@ if ($get_order_by == 'price') {
 
                         <!-- sorting, pages -->
                         <div class="block_hr list_manage">
-                            <form action="#" method="post" class="form_sort">
+<!--                            <form action="#" method="post" class="form_sort">
                                 <span class="manage_title"><?php _e('Відсортувати за', 'tfuse'); ?>:</span>
                                 <select class="select_styled white_select" name="sort_list" id="sort_list">
                                     <option value="1"<?php
@@ -422,7 +425,7 @@ if ($get_order_by == 'price') {
                                     }
                                     ?>><?php _e('Ціна - +', 'tfuse'); ?></option>
                                 </select>
-                            </form>
+                            </form>-->
 
                             <div class="pages_jump">
                                 <span class="manage_title"><?php _e('Перейти до сторінки', 'tfuse'); ?>:</span>
